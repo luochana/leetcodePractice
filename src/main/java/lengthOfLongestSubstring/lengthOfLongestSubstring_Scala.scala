@@ -23,5 +23,4 @@ object lengthOfLongestSubstring_Scala {
   def main(args: Array[String]): Unit ={
     println(lengthOfLongestSubstring("fdgfghghjhjhhjhj"))
   }
-
 }
