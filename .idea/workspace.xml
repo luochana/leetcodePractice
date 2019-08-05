@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/validParentheses/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/heap/mergeKLists/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_scala.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/addTwoNumbers/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/addTwoNumbers/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/addTwoNumbers/addTwoNumbersJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/addTwoNumbers/addTwoNumbersJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/convertZ/convertZ_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/convertZ/convertZ_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/findMedianSortedArrays/findMedianSortedArrays_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/findMedianSortedArrays/findMedianSortedArrays_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lengthOfLongestSubstring/lengthOfLongestSubstring_Java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lengthOfLongestSubstring/lengthOfLongestSubstring_Java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/longestPalindrome/longestPalindrome_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/longestPalindrome/longestPalindrome_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_scala$$anonfun$isValid$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_scala$$anonfun$isValid$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_scala$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_scala$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twoSum/twoSum_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twoSum/twoSum_java.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,44 +32,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/convertZ/discribtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="405">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="31" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#468#479#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding>
-                <element signature="e#33#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="195">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -76,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/twoSum/twoSum_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -162,10 +169,13 @@
         <option value="$PROJECT_DIR$/src/main/java/stack/validParentheses/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/heap/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_scala.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="411" />
     <option name="y" value="48" />
     <option name="width" value="1360" />
@@ -209,7 +219,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
+              <item name="heap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -217,8 +227,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="validParentheses" type="462c0819:PsiDirectoryNode" />
+              <item name="heap" type="462c0819:PsiDirectoryNode" />
+              <item name="mergeKLists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -226,7 +236,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="twoSum" type="462c0819:PsiDirectoryNode" />
+              <item name="heap" type="462c0819:PsiDirectoryNode" />
+              <item name="mergeKLists" type="462c0819:PsiDirectoryNode" />
+              <item name="mergeKLists_java.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -251,6 +263,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/heap/mergeKLists" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -263,13 +280,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.validParentheses_scala">
+  <component name="RunManager" selected="Application.mergeKLists_java">
     <configuration name="lengthOfLongestSubstring_Scala" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lengthOfLongestSubstring.lengthOfLongestSubstring_Scala" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lengthOfLongestSubstring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeKLists_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap.mergeKLists.mergeKLists_java" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap.mergeKLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,6 +342,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeKLists_java" />
         <item itemvalue="Application.validParentheses_scala" />
         <item itemvalue="Application.lengthOfLongestSubstring_Scala" />
         <item itemvalue="Application.twoSum_scala" />
@@ -344,16 +375,20 @@
       <workItem from="1564387580477" duration="2141000" />
       <workItem from="1564392633732" duration="161000" />
       <workItem from="1564452158985" duration="5370000" />
+      <workItem from="1564462121128" duration="636000" />
+      <workItem from="1564958990166" duration="4020000" />
+      <workItem from="1564999669105" duration="812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33582000" />
+    <option name="totallyTimeSpent" value="39050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14164004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14536741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -493,10 +528,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/convertZ/discribtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/longestPalindrome/longestPalindrome_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twoSum/twoSum_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -531,45 +611,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/convertZ/discribtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="31" />
+        <state relative-caret-position="699">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#468#479#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twoSum/twoSum_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="e#33#55#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
