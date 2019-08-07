@@ -1,4 +1,4 @@
-package twoSum
+package Array.twoSum
 
  object twoSum_scala {
   def two_sum(nums:Array[Int],target:Int):Array[Int]=

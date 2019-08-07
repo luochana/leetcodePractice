@@ -1,4 +1,4 @@
-package lengthOfLongestSubstring
+package hashTable.lengthOfLongestSubstring
 
 import scala.collection.immutable.HashMap
 

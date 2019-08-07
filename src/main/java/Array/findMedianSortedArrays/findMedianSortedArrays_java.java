@@ -1,4 +1,4 @@
-package findMedianSortedArrays;
+package Array.findMedianSortedArrays;
 
 public class findMedianSortedArrays_java {
     public double findMedianSortedArrays(int[] A, int[] B) {

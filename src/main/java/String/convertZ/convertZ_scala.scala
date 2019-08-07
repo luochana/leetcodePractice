@@ -1,4 +1,4 @@
-package convertZ
+package String.convertZ
 
 import java.util.ArrayList
 import scala.collection.JavaConversions._

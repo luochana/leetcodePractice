@@ -1,4 +1,4 @@
-package findMedianSortedArrays
+package Array.findMedianSortedArrays
 
 object findMedianSortedArrays_Scala {
   def findMedianSortedArrays(A: Array[Int], B: Array[Int]):Double={

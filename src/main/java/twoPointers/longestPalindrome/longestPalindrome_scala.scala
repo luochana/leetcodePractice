@@ -1,4 +1,4 @@
-package longestPalindrome
+package twoPointers.longestPalindrome
 
 object longestPalindrome_scala {
 

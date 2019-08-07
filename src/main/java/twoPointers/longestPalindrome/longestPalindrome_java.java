@@ -1,4 +1,4 @@
-package longestPalindrome;
+package twoPointers.longestPalindrome;
 
 public class longestPalindrome_java {
     public String longestPalindrome(String s) {
