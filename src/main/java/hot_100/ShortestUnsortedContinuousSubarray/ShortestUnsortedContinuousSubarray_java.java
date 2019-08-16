@@ -28,6 +28,6 @@ public class ShortestUnsortedContinuousSubarray_java {
 
     public static void main(String[] args) {
         ShortestUnsortedContinuousSubarray_java a=new ShortestUnsortedContinuousSubarray_java();
-        System.out.println(a.findUnsortedSubarray(new int[]{2, 6, 4, 8, 10, 9, }));
+        System.out.println(a.findUnsortedSubarray(new int[]{2, 6, 4, 8, 10, 9,15}));
     }
 }
