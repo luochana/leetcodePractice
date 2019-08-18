@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/TargetSum/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,42 +40,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PalindromicSubstrings/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MergeTwoBinaryTrees/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MergeTwoBinaryTrees/MergeTwoBinaryTrees_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MergeTwoBinaryTrees/MergeTwoBinaryTrees_scala.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree/DiameterofBinaryTree_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -84,8 +49,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ShortestUnsortedContinuousSubarray/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -97,11 +75,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
               <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -121,10 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/findMedianSortedArrays/describe" />
-        <option value="$PROJECT_DIR$/src/main/java/longestPalindrome/descrition" />
-        <option value="$PROJECT_DIR$/src/main/java/longestPalindrome/longestPalindrome_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/longestPalindrome/longestPalindrome_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/convertZ/discribtion" />
         <option value="$PROJECT_DIR$/src/main/java/convertZ/convertZ_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/convertZ/convertZ_scala.scala" />
@@ -172,6 +173,10 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree/DiameterofBinaryTree_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/TargetSum/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_scala.scala" />
       </list>
     </option>
   </component>
@@ -194,7 +199,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="411" />
     <option name="y" value="48" />
     <option name="width" value="1360" />
@@ -230,6 +235,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="ConvertBSTtoGreaterTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="TargetSum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,15 +430,16 @@
       <workItem from="1565947476777" duration="18000" />
       <workItem from="1566030184587" duration="3629000" />
       <workItem from="1566054927761" duration="294000" />
-      <workItem from="1566145861388" duration="1341000" />
+      <workItem from="1566145861388" duration="2488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84108000" />
+    <option name="totallyTimeSpent" value="85255000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1053" extended-state="7" />
+    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18210863" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -444,15 +476,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/twoPointers/day2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String/day2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/day2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/Subsets/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -711,13 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ShortestUnsortedContinuousSubarray/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PalindromicSubstrings/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -745,9 +761,6 @@
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -777,10 +790,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ShortestUnsortedContinuousSubarray/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
