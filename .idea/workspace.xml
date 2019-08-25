@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,39 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_scala.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#42#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PathSumIII/PathSumIII_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PathSumIII/PathSumIII_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -62,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="315">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -74,8 +41,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="21" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -131,10 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/bitManipulation/Subsets/describtion" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/bitManipulation/Subsets/Subsets_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/MergeIntervals/MergeIntervals_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/Array/twoSum/twoSum_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/array/twoSum/twoSum_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/bitManipulation/Subsets/Subsets_scala.scala" />
@@ -182,6 +177,10 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/PathSumIII/PathSumIII_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_scala.scala" />
       </list>
     </option>
   </component>
@@ -255,7 +254,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
-              <item name="PartitionEqualSubsetSum" type="462c0819:PsiDirectoryNode" />
+              <item name="QueueReconstructionByHeight" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -437,18 +436,19 @@
       <workItem from="1566404400177" duration="1711000" />
       <workItem from="1566583035654" duration="531000" />
       <workItem from="1566631318202" duration="1793000" />
-      <workItem from="1566724814122" duration="452000" />
+      <workItem from="1566724814122" duration="1264000" />
+      <workItem from="1566759019842" duration="550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97272000" />
+    <option name="totallyTimeSpent" value="98634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20234291" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20447284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,27 +483,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/stack/validParentheses/validParentheses_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/DailyTemperatures_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PalindromicSubstrings/PalindromicSubstrings_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/Subsets/Subsets_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -806,6 +785,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PathSumIII/PathSumIII_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PathSumIII/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -827,31 +827,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PathSumIII/PathSumIII_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="21" selection-end-column="50" />
         </state>
       </provider>
     </entry>
