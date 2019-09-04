@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-//想不出来,看了官方解答. 
+//想不出来,看了官方解答.
 
 public class RemoveInvalidParentheses_java {
     private Set<String> validExpressions = new HashSet<String>();
