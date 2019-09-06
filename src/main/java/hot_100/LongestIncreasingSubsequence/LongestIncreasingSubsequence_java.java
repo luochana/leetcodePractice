@@ -33,6 +33,14 @@ public class LongestIncreasingSubsequence_java {
     }
 
     //记录一下别人的dp做法O(nlog(n))
+   /*
+         动态规划+二分查找
+        很具小巧思。新建数组 dp，用于保存最长上升子序列。
+        对原序列进行遍历，将每位元素二分插入 dp 中。
+        如果 dp 中元素都比它小，将它插到最后
+        否则，用它覆盖掉比它大的元素中最小的那个。
+        总之，思想就是让 dp 中存储比较小的元素。这样，dp 未必是真实的最长上升子序列，但长度是对的。
+    */
     public int lengthOfLIS2(int[] nums) {
         int[] dp = new int[nums.length];
         int len = 0;
@@ -42,6 +50,7 @@ public class LongestIncreasingSubsequence_java {
                 i = -(i + 1);
             }
             dp[i] = num;
+            //num为dp数组中最大
             if (i == len) {
                 len++;
             }
