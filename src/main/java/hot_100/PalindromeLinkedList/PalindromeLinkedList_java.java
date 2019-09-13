@@ -29,5 +29,6 @@ public class PalindromeLinkedList_java {
             p2 = p2.next;
         }
         return true;
+
     }
 }
