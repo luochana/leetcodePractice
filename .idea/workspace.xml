@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/SortList/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,16 +21,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/MajorityElement_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="570">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#421#431#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -38,20 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_scala.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="32" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -126,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/PerfectSquares/PerfectSquares_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/PerfectSquares/PerfectSquares_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/PerfectSquares/describtion" />
@@ -175,8 +177,10 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/MajorityElement_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/MajorityElement_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/SortList/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_java.java" />
       </list>
     </option>
   </component>
@@ -251,7 +255,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
-              <item name="MajorityElement" type="462c0819:PsiDirectoryNode" />
+              <item name="IntersectionOfTwoLinkedLists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -498,12 +502,14 @@
       <workItem from="1568858314629" duration="2889000" />
       <workItem from="1568951524647" duration="2188000" />
       <workItem from="1568971028045" duration="700000" />
-      <workItem from="1569022174398" duration="1252000" />
+      <workItem from="1569022174398" duration="1515000" />
+      <workItem from="1569062094304" duration="175000" />
+      <workItem from="1569123388084" duration="1749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186926000" />
+    <option name="totallyTimeSpent" value="189113000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,7 +524,7 @@
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29286474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29925454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -553,27 +559,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SubarraySumEqualsK/SubarraySumEqualsK_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SearchA2DMatrixII/SearchA2DMatrixII_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -839,6 +824,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/MajorityElement_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SlidingWindowMaximum/SlidingWindowMaximum_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -881,31 +887,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/MajorityElement_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="32" selection-end-column="3" />
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#421#431#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
