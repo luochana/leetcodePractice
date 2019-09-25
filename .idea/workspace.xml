@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_sacla.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/LRUCache/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,37 +21,47 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MinStack/MinStack_sscala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="225">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="-198">
+              <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#1730#1752#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_sacla.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -126,9 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/SlidingWindowMaximum/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/SlidingWindowMaximum/SlidingWindowMaximum_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/SlidingWindowMaximum/SlidingWindowMaximum_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ProductOfArrayExceptSelf/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf_scala.scala" />
@@ -177,6 +184,9 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MinStack/MinStack_sscala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/LRUCache/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_java.java" />
       </list>
     </option>
   </component>
@@ -210,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +253,25 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCache_java.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +314,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -518,11 +547,13 @@
       <workItem from="1569297324019" duration="597000" />
       <workItem from="1569312951915" duration="4510000" />
       <workItem from="1569320267431" duration="891000" />
+      <workItem from="1569321799813" duration="739000" />
+      <workItem from="1569386070699" duration="2049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202553000" />
+    <option name="totallyTimeSpent" value="205341000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,9 +566,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21778488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22204472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -572,27 +602,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalSquare/MaximalSquare_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/InvertBinaryTree/InvertBinaryTree_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -867,10 +876,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -923,10 +932,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_sacla.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#1730#1752#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
