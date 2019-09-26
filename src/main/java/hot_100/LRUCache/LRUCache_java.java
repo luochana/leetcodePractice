@@ -1,5 +1,6 @@
 package hot_100.LRUCache;
 
+import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -29,6 +30,7 @@ public class LRUCache_java extends LinkedHashMap<Integer, Integer> {
 }
 
 
+//方法 2：哈希表 + 双向链表
 
 class LRUCache {
     class DLinkedNode {
@@ -77,8 +79,8 @@ class LRUCache {
         return res;
     }
 
-    private Hashtable<Integer, DLinkedNode> cache =
-            new Hashtable<Integer, DLinkedNode>();
+    private HashMap<Integer, DLinkedNode> cache =
+            new HashMap<Integer, DLinkedNode>();
     private int size;
     private int capacity;
     private DLinkedNode head, tail;
