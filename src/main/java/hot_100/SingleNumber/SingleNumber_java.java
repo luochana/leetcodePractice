@@ -30,7 +30,7 @@ public class SingleNumber_java {
     }
 
     //hashmap,空间O(n)
-    
+
     public int singleNumber1(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
         for (Integer i : nums) {
