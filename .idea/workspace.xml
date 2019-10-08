@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,37 +21,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFomreorderAndInorderTraversal/ConstructBinaryTreeFomreorderAndInorderTraversal_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#360#375#0" expanded="true" />
+                <element signature="e#529#539#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="29" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -122,10 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/NumberOfIslands/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/ReverseLinkedList/ReverseLinkedList_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/NumberOfIslands/NumberOfIslands_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/NumberOfIslands/NumberOfIslands_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/HouseRobber_java.java" />
@@ -173,6 +174,10 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFomreorderAndInorderTraversal/ConstructBinaryTreeFomreorderAndInorderTraversal_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java" />
       </list>
     </option>
   </component>
@@ -206,6 +211,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,14 +253,22 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
-              <item name="MaximumDepthOfBinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTreeLevelOrderTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTreeLevelOrderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTreeLevelOrderTraversal_java.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -512,12 +527,14 @@
       <workItem from="1570042560104" duration="3355000" />
       <workItem from="1570378613766" duration="2690000" />
       <workItem from="1570414511022" duration="1416000" />
-      <workItem from="1570466367554" duration="693000" />
+      <workItem from="1570466367554" duration="1253000" />
+      <workItem from="1570507098334" duration="1198000" />
+      <workItem from="1570522628449" duration="2015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239503000" />
+    <option name="totallyTimeSpent" value="243276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,7 +549,7 @@
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28434506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29020235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -567,27 +584,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/TargetSum/TargetSum_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MinStack/MinStack_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -872,6 +868,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFomreorderAndInorderTraversal/ConstructBinaryTreeFomreorderAndInorderTraversal_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFomreorderAndInorderTraversal/ConstructBinaryTreeFomreorderAndInorderTraversal_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -903,31 +920,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFomreorderAndInorderTraversal/ConstructBinaryTreeFomreorderAndInorderTraversal_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#375#0" expanded="true" />
+            <element signature="e#529#539#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
