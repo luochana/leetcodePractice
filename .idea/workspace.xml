@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,42 +22,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#360#375#0" expanded="true" />
-                <element signature="e#529#539#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="29" selection-end-column="3" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="34" selection-end-column="3" />
+              <folding>
+                <element signature="e#36#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -127,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/NumberOfIslands/NumberOfIslands_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/HouseRobber_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/HouseRobber_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/MajorityElement_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MajorityElement/MajorityElement_java.java" />
@@ -178,6 +182,9 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_scala.scala" />
       </list>
     </option>
   </component>
@@ -196,6 +203,11 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -212,7 +224,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,7 +264,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeLevelOrderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="IsMirrorBinaryTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -262,13 +273,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeLevelOrderTraversal" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeLevelOrderTraversal_java.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="IsMirrorBinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="IsMirrorBinaryTree_java.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,7 +298,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -529,12 +541,14 @@
       <workItem from="1570414511022" duration="1416000" />
       <workItem from="1570466367554" duration="1253000" />
       <workItem from="1570507098334" duration="1198000" />
-      <workItem from="1570522628449" duration="2015000" />
+      <workItem from="1570522628449" duration="2608000" />
+      <workItem from="1570585170627" duration="3076000" />
+      <workItem from="1570639158856" duration="1682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243276000" />
+    <option name="totallyTimeSpent" value="248627000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -549,7 +563,7 @@
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29020235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29659212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,27 +598,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortList/SortList_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MinStack/MinStack_sscala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -882,6 +875,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -920,35 +934,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#360#375#0" expanded="true" />
-            <element signature="e#529#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="34" selection-end-column="3" />
+          <folding>
+            <element signature="e#36#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
