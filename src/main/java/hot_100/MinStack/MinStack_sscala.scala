@@ -7,7 +7,6 @@ import scala.collection.mutable.Stack
 class MinStack_java{
 
 
-/*
   // 数据栈
   private var data:Stack[Int] = Stack()
   // 辅助栈
@@ -37,7 +36,6 @@ class MinStack_java{
     throw new RuntimeException("栈中元素为空，此操作非法")
   }
 
-  */
 
 
 }
