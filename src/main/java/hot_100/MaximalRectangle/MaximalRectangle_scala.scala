@@ -3,6 +3,8 @@ package hot_100.MaximalRectangle
 import java.util.Arrays
 
 class MaximalRectangle_scala {
+  //dp. 官方题解: https://leetcode-cn.com/problems/maximal-rectangle/solution/zui-da-ju-xing-by-leetcode/
+
   def maximalRectangle(matrix: Array[Array[Char]]): Int = {
     if (matrix.length == 0) return 0
     val m = matrix.length

@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/WordSearch/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,17 +24,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="48" selection-end-column="3" />
+            <state relative-caret-position="495">
+              <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+              <folding>
+                <element signature="e#1531#1532#0" expanded="true" />
+                <element signature="e#1588#1589#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -63,9 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/LRUCache/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII/LinkedListCycleII_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII/LinkedListCycleII_scala.scala" />
@@ -114,6 +143,9 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/WordSearch/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_scala.scala" />
       </list>
     </option>
   </component>
@@ -193,6 +225,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
               <item name="MaximalRectangle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="WordSearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -470,12 +511,13 @@
       <workItem from="1570894218338" duration="3814000" />
       <workItem from="1570933672794" duration="596000" />
       <workItem from="1570951930338" duration="20000" />
-      <workItem from="1570954705968" duration="1327000" />
+      <workItem from="1570954705968" duration="1533000" />
+      <workItem from="1571058740140" duration="4073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260685000" />
+    <option name="totallyTimeSpent" value="264964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,9 +530,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2140575" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21618743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -556,30 +597,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SingleNumber/SingleNumber_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SingleNumber/SingleNumber_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SingleNumber/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestConsecutiveSequence/LongestConsecutiveSequence_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -899,6 +916,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -906,17 +930,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="615">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="48" selection-end-column="3" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#1531#1532#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
