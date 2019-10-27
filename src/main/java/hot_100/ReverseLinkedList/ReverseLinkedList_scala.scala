@@ -1,6 +1,6 @@
 package hot_100.ReverseLinkedList
 
-class ReverseLinkedList_scala {
+/*class ReverseLinkedList_scala {
   def reverseList(head: ListNode): ListNode = {
     if (head == null)
       return head
@@ -18,4 +18,4 @@ class ReverseLinkedList_scala {
     temhead.next = temp2
     temhead
   }
-}
+}*/
