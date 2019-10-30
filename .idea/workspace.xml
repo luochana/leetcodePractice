@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,27 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindNumInSortedArr_34/FindNumInSortedArr_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="64" selection-start-line="69" selection-start-column="64" selection-end-line="69" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/Permutations/Permutations_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_java.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -50,11 +29,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RotateImage/RotateImage_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -129,8 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/MinStack/MinStack_sscala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree/IsBinarySearchTree_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree/IsBinarySearchTree_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/UniqueBinarySearchTrees/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/UniqueBinarySearchTrees/UniqueBinarySearchTrees_java.java" />
@@ -180,6 +178,8 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/FindNumInSortedArr_34/FindNumInSortedArr_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_java.java" />
       </list>
     </option>
   </component>
@@ -258,7 +258,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hot_100" type="462c0819:PsiDirectoryNode" />
-              <item name="FindNumInSortedArr_34" type="462c0819:PsiDirectoryNode" />
+              <item name="GenerateParentheses_22" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -291,8 +291,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -590,11 +590,14 @@
       <workItem from="1572321205624" duration="2415000" />
       <workItem from="1572323641512" duration="2391000" />
       <workItem from="1572331510572" duration="698000" />
+      <workItem from="1572406063925" duration="739000" />
+      <workItem from="1572413521240" duration="751000" />
+      <workItem from="1572426057249" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302506000" />
+    <option name="totallyTimeSpent" value="304236000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,8 +610,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2768903" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28487754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -674,31 +678,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#1531#1532#0" expanded="true" />
-            <element signature="e#1588#1589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortColors/SortColors_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -987,6 +966,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RotateImage/RotateImage_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1029,10 +1029,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
