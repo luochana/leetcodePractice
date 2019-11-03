@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,42 +20,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ContainerWithMostWater_11/ContainerWithMostWater_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="462">
+              <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#523#531#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle/LinkedListCycle_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_java.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -130,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/MaximalRectangle/MaximalRectangle_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/WordSearch/describtion" />
@@ -181,6 +182,8 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ContainerWithMostWater_11/ContainerWithMostWater_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_java.java" />
       </list>
     </option>
   </component>
@@ -219,6 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,12 +285,19 @@
               <item name="LinkedListCycle" type="462c0819:PsiDirectoryNode" />
               <item name="LinkedListCycle_java.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoveNthNodeFromEndOfList" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -591,12 +603,14 @@
       <workItem from="1572530472795" duration="51000" />
       <workItem from="1572581533735" duration="982000" />
       <workItem from="1572612659736" duration="22000" />
-      <workItem from="1572665742838" duration="4730000" />
+      <workItem from="1572665742838" duration="5072000" />
+      <workItem from="1572671085648" duration="115000" />
+      <workItem from="1572754219896" duration="850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311917000" />
+    <option name="totallyTimeSpent" value="313224000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,9 +623,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21246007" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21671991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -620,7 +633,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21566524" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21566524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -677,27 +690,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MaximumSubarray/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SortColors/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordSearch/WordSearch_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -974,6 +966,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ContainerWithMostWater_11/ContainerWithMostWater_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle/LinkedListCycle_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="87" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1009,41 +1029,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ContainerWithMostWater_11/ContainerWithMostWater_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="87" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle/LinkedListCycle_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="462">
+          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#523#531#0" expanded="true" />
           </folding>
         </state>
       </provider>
