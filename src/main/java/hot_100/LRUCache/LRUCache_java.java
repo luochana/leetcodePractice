@@ -79,8 +79,7 @@ class LRUCache {
         return res;
     }
 
-    private HashMap<Integer, DLinkedNode> cache =
-            new HashMap<Integer, DLinkedNode>();
+    private HashMap<Integer, DLinkedNode> cache = new HashMap<Integer, DLinkedNode>();
     private int size;
     private int capacity;
     private DLinkedNode head, tail;
