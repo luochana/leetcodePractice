@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/DeleteNodeInALinkedList_237/DeleteNodeInALinkedList_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/DeleteNodeInALinkedList_237/DeleteNodeInALinkedList_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/DeleteNodeInALinkedList_237/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,25 +21,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/DeleteNodeInALinkedList_237/DeleteNodeInALinkedList_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="600">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -51,10 +52,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -132,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/MinimumWindowSubstring/MinimumWindowSubstring_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/UniquePaths/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/UniquePaths/UniquePaths_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/JumpGame/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/JumpGame/JumpGame_java.java" />
@@ -183,6 +182,8 @@
         <option value="$PROJECT_DIR$/src/main/java/tencent/DeleteNodeInALinkedList_237/DeleteNodeInALinkedList_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java" />
       </list>
     </option>
   </component>
@@ -263,16 +264,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tencent" type="462c0819:PsiDirectoryNode" />
-              <item name="DeleteNodeInALinkedList_237" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tencent" type="462c0819:PsiDirectoryNode" />
-              <item name="LowestCommonAncestorOfBST_235" type="462c0819:PsiDirectoryNode" />
+              <item name="PowerOfTwo_231" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -602,12 +594,14 @@
       <workItem from="1573478711508" duration="1146000" />
       <workItem from="1573530883138" duration="424000" />
       <workItem from="1573541268685" duration="15000" />
-      <workItem from="1573620761825" duration="1079000" />
+      <workItem from="1573620761825" duration="1357000" />
+      <workItem from="1573627644126" duration="363000" />
+      <workItem from="1573697992135" duration="1050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330680000" />
+    <option name="totallyTimeSpent" value="332371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -622,7 +616,7 @@
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25612354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26144835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -688,27 +682,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MergeTwoSortedLists/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MergeTwoSortedLists/MergeTwoSortedLists_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ContainerWithMostWater_11/ContainerWithMostWater_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ContainerWithMostWater_11/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -997,6 +970,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/DeleteNodeInALinkedList_237/DeleteNodeInALinkedList_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseWordsInAStringIII_557/ReverseWordsInAStringIII_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1035,31 +1029,35 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/DeleteNodeInALinkedList_237/DeleteNodeInALinkedList_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="600">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
