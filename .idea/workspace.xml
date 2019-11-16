@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,41 +21,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -115,8 +111,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Package Object" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -133,10 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/JumpGame/JumpGame_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams/GroupAnagrams_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/RotateImage/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/RotateImage/RotateImage_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/RotateImage/RotateImage_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/Permutations/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/Permutations/Permutations_java.java" />
@@ -184,6 +176,10 @@
         <option value="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_scala.scala" />
       </list>
     </option>
   </component>
@@ -264,7 +260,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tencent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContainsDuplicate_217" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tencent" type="462c0819:PsiDirectoryNode" />
               <item name="KthSmallestElementInABST_230" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tencent" type="462c0819:PsiDirectoryNode" />
+              <item name="KthSmallestElementInABST_230" type="462c0819:PsiDirectoryNode" />
+              <item name="KthSmallestElementInABST_java.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -598,12 +613,14 @@
       <workItem from="1573627644126" duration="363000" />
       <workItem from="1573697992135" duration="1407000" />
       <workItem from="1573740790103" duration="1200000" />
-      <workItem from="1573789393409" duration="530000" />
+      <workItem from="1573789393409" duration="961000" />
+      <workItem from="1573817066650" duration="53000" />
+      <workItem from="1573880045967" duration="569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334458000" />
+    <option name="totallyTimeSpent" value="335511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -618,7 +635,7 @@
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26677316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27209798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -684,27 +701,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ThreeSum_15/ThreeSum_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -986,6 +982,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseWordsInAStringIII_557/ReverseWordsInAStringIII_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1024,38 +1046,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/package.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="5" />
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
