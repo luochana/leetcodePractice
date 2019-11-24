@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/SpiralMatrix_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/SpiralMatrix_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,37 +21,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/NimGame_292/NimGame_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/NimGame_292/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="465">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -132,8 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ThreeSum_15/describtion" />
@@ -183,6 +178,8 @@
         <option value="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/SpiralMatrix_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_java.java" />
       </list>
     </option>
   </component>
@@ -221,8 +218,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,7 +260,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tencent" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiplyStrings_43" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoveDuplicatesFromSortedArray_26" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -610,12 +607,13 @@
       <workItem from="1574273168461" duration="1926000" />
       <workItem from="1574306717637" duration="1410000" />
       <workItem from="1574394770201" duration="3884000" />
-      <workItem from="1574526041120" duration="1686000" />
+      <workItem from="1574526041120" duration="1901000" />
+      <workItem from="1574567063361" duration="1386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353245000" />
+    <option name="totallyTimeSpent" value="354846000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -630,7 +628,7 @@
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24227902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24494143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -696,27 +694,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseString_344/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="82" column="48" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="48" />
-          <folding>
-            <element signature="e#19667#19668#0" expanded="true" />
-            <element signature="e#19695#19696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseString_344/ReverseString_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/LRUCache_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1009,6 +986,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/NimGame_292/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/SpiralMatrixII_59/SpiralMatrixII_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1040,31 +1038,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/NimGame_292/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="465">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
