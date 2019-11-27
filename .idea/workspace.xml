@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/PalindromeNumber_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/PalindromeNumber_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,24 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ThreeSumClosest_16/ThreeSumClosest_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -47,8 +29,26 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/PalindromeNumber_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/PalindromeNumber_scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/describtion">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -129,8 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/NextPermutation/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/NextPermutation/NextPermutation_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/LongestValidParentheses_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/LongestValidParentheses_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion" />
@@ -180,6 +178,8 @@
         <option value="$PROJECT_DIR$/src/main/java/tencent/ThreeSumClosest_16/ThreeSumClosest_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/PalindromeNumber_java.java" />
       </list>
     </option>
   </component>
@@ -219,7 +219,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,12 +259,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tencent" type="462c0819:PsiDirectoryNode" />
-              <item name="LongestCommonPrefix_14" type="462c0819:PsiDirectoryNode" />
+              <item name="PalindromeNumber_9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -612,11 +612,12 @@
       <workItem from="1574599694130" duration="5000" />
       <workItem from="1574686215300" duration="1411000" />
       <workItem from="1574735761174" duration="1209000" />
+      <workItem from="1574825430960" duration="1811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="357861000" />
+    <option name="totallyTimeSpent" value="359672000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -629,8 +630,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25292864" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25559106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -696,27 +698,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -987,6 +968,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ThreeSumClosest_16/ThreeSumClosest_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1025,31 +1027,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ThreeSumClosest_16/ThreeSumClosest_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/PalindromeNumber_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/PalindromeNumber_9/PalindromeNumber_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/LongestCommonPrefix_14/LongestCommonPrefix_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
