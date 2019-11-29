@@ -1,0 +1,11 @@
+select
+    Email
+from
+    (select
+        Email, count(*) sum
+    from
+        Person
+    group by
+        Email) t1
+where
+    sum>1;
