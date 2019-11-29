@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourSumII_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourumII_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,25 +22,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/StringToInteger_8/StringToInteger_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+            <state relative-caret-position="540">
+              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/describtion">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourSumII_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourumII_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -48,19 +54,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -129,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/tencent/ReverseWordsInAStringIII_557/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/ReverseWordsInAStringIII_557/ReverseWordsInAStringIII_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/ReverseWordsInAStringIII_557/ReverseWordsInAStringIII_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/ReverseString_344/ReverseString_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/ReverseString_344/ReverseString_scala.scala" />
@@ -180,6 +175,8 @@
         <option value="$PROJECT_DIR$/src/main/java/tencent/StringToInteger_8/StringToInteger_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourSumII_java.java" />
       </list>
     </option>
   </component>
@@ -207,7 +204,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="490" />
     <option name="y" value="85" />
     <option name="width" value="1150" />
@@ -218,7 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,7 +246,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tencent" type="462c0819:PsiDirectoryNode" />
+              <item name="interviw_hot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -258,13 +254,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tencent" type="462c0819:PsiDirectoryNode" />
-              <item name="ReverseInteger_8" type="462c0819:PsiDirectoryNode" />
+              <item name="interviw_hot" type="462c0819:PsiDirectoryNode" />
+              <item name="FourSumII_454" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -287,6 +284,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454" />
       <recent name="$PROJECT_DIR$/src/main/java/sort/MergeIntervals" />
       <recent name="$PROJECT_DIR$/src/main/java/heap/mergeKLists" />
     </key>
@@ -615,12 +613,14 @@
       <workItem from="1574825430960" duration="2412000" />
       <workItem from="1574839801239" duration="2530000" />
       <workItem from="1574873077283" duration="55000" />
-      <workItem from="1574912153394" duration="3275000" />
+      <workItem from="1574912153394" duration="3430000" />
+      <workItem from="1574948828064" duration="596000" />
+      <workItem from="1574996480665" duration="1565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="366133000" />
+    <option name="totallyTimeSpent" value="368449000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,10 +632,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1053" extended-state="7" />
+    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26357827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26890308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -644,7 +644,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21566524" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21566524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6459227" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -700,43 +700,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_java.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/BestTimeToBuyAndSellStockII_122/BestTimeToBuyAndSellStockII_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/BestTimeToBuyAndSellStockII_122/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1006,6 +970,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/StringToInteger_8/StringToInteger_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1044,31 +1029,34 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/StringToInteger_8/StringToInteger_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        <state relative-caret-position="540">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_scala.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourumII_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseInteger_8/ReverseInteger_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourSumII_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
