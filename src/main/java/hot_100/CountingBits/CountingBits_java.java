@@ -10,13 +10,11 @@ public class CountingBits_java {
         int flag=1;
         for(int i=2;i<=num;++i)
         {
-            if(i/flag==2)
-            {
-                dp[i]=1;
-                flag*=2;
+            if(i/flag == 2) {
+                dp[i] = 1;
+                flag *= 2;
             }
-            else
-            {
+            else {
                 dp[i]=dp[flag]+dp[i-flag];
             }
         }

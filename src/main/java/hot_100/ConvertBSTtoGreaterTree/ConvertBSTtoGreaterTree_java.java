@@ -29,4 +29,20 @@ public class ConvertBSTtoGreaterTree_java {
         sum = dfs(node.left, sum);
         return sum;
     }
+
+
+
+    //解法二：
+    private int sum = 0;
+
+    public TreeNode convertBST1(TreeNode root) {
+        if (root != null) {
+            convertBST(root.right);
+            sum += root.val;
+            root.val = sum;
+            convertBST(root.left);
+        }
+        return root;
+    }
+
 }
