@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/OddEvenLinkedList_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/MergeIntervals/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/MergeIntervals/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CountingBits/CountingBits_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hot_100/CountingBits/CountingBits_java.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/GameOfLife_289/GameOfLife_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviw_hot/GameOfLife_289/GameOfLife_java.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/describtion">
           <provider selected="true" editor-type-id="text-editor" />
@@ -68,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_java.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="645">
@@ -76,6 +53,24 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/OddEvenLinkedList_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-39">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -116,15 +111,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2805">
-              <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -148,8 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/tencent/GrayCode_89/GrayCode_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/GrayCode_89/GrayCode_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MergeSortedArray_88/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MergeSortedArray_88/MergeSortedArray_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MergeSortedArray_88/MergeSortedArray_scala.scala" />
@@ -199,6 +183,8 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/OddEvenLinkedList_java.java" />
       </list>
     </option>
   </component>
@@ -277,7 +263,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="interviw_hot" type="462c0819:PsiDirectoryNode" />
-              <item name="PalindromePartitioning_131" type="462c0819:PsiDirectoryNode" />
+              <item name="OddEvenLinkedList_328" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromePartitioning_java">
+  <component name="RunManager" selected="Application.OddEvenLinkedList_java">
     <configuration name="DecodeString_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hot_100.DecodeString.DecodeString_java" />
       <module name="leetcode" />
@@ -343,6 +329,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interviw_hot.GameOfLife_289.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenLinkedList_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviw_hot.OddEvenLinkedList_328.OddEvenLinkedList_java" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviw_hot.OddEvenLinkedList_328.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,26 +375,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToInteger_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tencent.StringToInteger_8.StringToInteger_java" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tencent.StringToInteger_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddEvenLinkedList_java" />
         <item itemvalue="Application.PalindromePartitioning_java" />
         <item itemvalue="Application.DecodeString_java" />
         <item itemvalue="Application.GameOfLife_java" />
         <item itemvalue="Application.ReverseInteger_java" />
-        <item itemvalue="Application.StringToInteger_java" />
       </list>
     </recent_temporary>
   </component>
@@ -650,12 +636,12 @@
       <workItem from="1575286212112" duration="8532000" />
       <workItem from="1575356680698" duration="1630000" />
       <workItem from="1575458664305" duration="13301000" />
-      <workItem from="1575516797220" duration="8328000" />
+      <workItem from="1575516797220" duration="10726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="428262000" />
+    <option name="totallyTimeSpent" value="430660000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -668,8 +654,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30670926" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30670926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -678,7 +665,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21566524" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21566524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6459227" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -744,12 +731,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeMaximumPathSum/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1077,6 +1058,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/OddEvenLinkedList_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
