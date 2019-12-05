@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/ConvertSortedArrayToBST_108/ConvertSortedArrayToBST_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/ConvertSortedArrayToBST_108/ConvertSortedArrayToBST_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/ConvertSortedArrayToBST_108/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BurstBalloons/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BurstBalloons/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits/CountingBits_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits/CountingBits_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/describtion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/MergeIntervals/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/MergeIntervals/describtion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CountingBits/CountingBits_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hot_100/CountingBits/CountingBits_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/GameOfLife_289/GameOfLife_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviw_hot/GameOfLife_289/GameOfLife_java.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,24 +31,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CountingBits/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CountingBits/CountingBits_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,43 +48,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-column="51" selection-end-line="1" />
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/DailyTemperatures_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="390">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/DailyTemperatures_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="645">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -97,10 +90,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2805">
+              <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -128,18 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/PowerOfTwo_231/PowerOfTwo_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/ContainsDuplicate_217/ContainsDuplicate_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/BestTimeToBuyAndSellStockII_122/BestTimeToBuyAndSellStockII_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/BestTimeToBuyAndSellStockII_122/BestTimeToBuyAndSellStockII_scala.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/GrayCode_89/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/GrayCode_89/GrayCode_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/GrayCode_89/GrayCode_scala.scala" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MergeSortedArray_88/describtion" />
@@ -179,6 +187,18 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/BurstBalloons/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/CountingBits/CountingBits_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/ExcelSheetColumnNumber_171/ExcelSheetColumnNumber_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/ExcelSheetColumnNumber_171/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/DecodeString/DecodeString_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/MergeIntervals/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/MergeIntervals/MergeIntervals_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_java.java" />
       </list>
     </option>
   </component>
@@ -217,7 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,11 +270,21 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="interviw_hot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interviw_hot" type="462c0819:PsiDirectoryNode" />
+              <item name="PalindromePartitioning_131" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,13 +323,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GameOfLife_java">
-    <configuration name="ContainsDuplicate_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tencent.ContainsDuplicate_217.ContainsDuplicate_java" />
+  <component name="RunManager" selected="Application.PalindromePartitioning_java">
+    <configuration name="DecodeString_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot_100.DecodeString.DecodeString_java" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tencent.ContainsDuplicate_217.*" />
+          <option name="PATTERN" value="hot_100.DecodeString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tencent.ReverseInteger_8.ReverseInteger_java" />
+    <configuration name="PalindromePartitioning_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviw_hot.PalindromePartitioning_131.PalindromePartitioning_java" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tencent.ReverseInteger_8.*" />
+          <option name="PATTERN" value="interviw_hot.PalindromePartitioning_131.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralMatrixII_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tencent.SpiralMatrixII_59.SpiralMatrixII_java" />
+    <configuration name="ReverseInteger_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tencent.ReverseInteger_8.ReverseInteger_java" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tencent.SpiralMatrixII_59.*" />
+          <option name="PATTERN" value="tencent.ReverseInteger_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,11 +391,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromePartitioning_java" />
+        <item itemvalue="Application.DecodeString_java" />
         <item itemvalue="Application.GameOfLife_java" />
         <item itemvalue="Application.ReverseInteger_java" />
         <item itemvalue="Application.StringToInteger_java" />
-        <item itemvalue="Application.SpiralMatrixII_java" />
-        <item itemvalue="Application.ContainsDuplicate_java" />
       </list>
     </recent_temporary>
   </component>
@@ -618,12 +647,15 @@
       <workItem from="1575225108863" duration="1185000" />
       <workItem from="1575226321454" duration="39000" />
       <workItem from="1575247971346" duration="9715000" />
-      <workItem from="1575286212112" duration="4671000" />
+      <workItem from="1575286212112" duration="8532000" />
+      <workItem from="1575356680698" duration="1630000" />
+      <workItem from="1575458664305" duration="13301000" />
+      <workItem from="1575516797220" duration="8328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="401142000" />
+    <option name="totallyTimeSpent" value="428262000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -637,7 +669,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2971246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30670926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -712,165 +744,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/SpiralMatrix_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/ReverseWordsInAStringIII_557/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown/BestTimeToBuyandSellStockWithCooldown_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/GameOfLife_289/GameOfLife_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/GameOfLife_289/GameOfLife_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DuplicateEmails_182/solution">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DuplicateEmails_182/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/BigCountries_595/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/BigCountries_595/solution">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/ExchangeSeats_626/solution">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/ExchangeSeats_626/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ConvertSortedArrayToBST_108/ConvertSortedArrayToBST_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ConvertSortedArrayToBST_108/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ConvertSortedArrayToBST_108/ConvertSortedArrayToBST_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/GameOfLife_289/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1000,15 +873,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-column="51" selection-end-line="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/DailyTemperatures_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -1017,17 +887,196 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-column="51" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/DailyTemperatures_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ExcelSheetColumnNumber_171/ExcelSheetColumnNumber_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ExcelSheetColumnNumber_171/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DecodeString/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DecodeString/DecodeString_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DecodeString/DecodeString_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ExcelSheetColumnNumber_171/ExcelSheetColumnNumber_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/MergeIntervals/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/MergeIntervals/MergeIntervals_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree/DiameterofBinaryTree_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/MergeIntervals/MergeIntervals_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PascalsTriangle_118/PascalsTriangle_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
