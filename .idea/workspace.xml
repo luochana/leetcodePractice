@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/kthSmallest_378/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/kthSmallest_378/kthSmallest_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/NumberOf1Bits_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/kthSmallest_378/kthSmallest_java.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
@@ -38,46 +38,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/TwoCityScheduling_1029/TwoCityScheduling_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="106" selection-start-line="4" selection-start-column="106" selection-end-line="4" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/TwoCityScheduling_1029/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/NumberOf1Bits_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/kthSmallest_378/describtion">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ValidSudoku_36/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/OddEvenLinkedList_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/OddEvenLinkedList_328/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_scala.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -132,11 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/tencent/RotateList_61/RotateList_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrixII_59/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrixII_59/SpiralMatrixII_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/tencent/SpiralMatrix_54/SpiralMatrix_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/MultiplyStrings_43/MultiplyStrings_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/tencent/RemoveDuplicatesFromSortedArray_26/describtion" />
@@ -183,6 +178,11 @@
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/ValidSudoku_36/ValidSudoku_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/kthSmallest_378/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/kthSmallest_378/kthSmallest_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/TwoCityScheduling_1029/TwoCityScheduling_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/TwoCityScheduling_1029/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/NumberOf1Bits_java.java" />
       </list>
     </option>
   </component>
@@ -627,12 +627,12 @@
       <workItem from="1575458664305" duration="13301000" />
       <workItem from="1575516797220" duration="12929000" />
       <workItem from="1575594011066" duration="594000" />
-      <workItem from="1575598144631" duration="1042000" />
+      <workItem from="1575598144631" duration="2952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="434499000" />
+    <option name="totallyTimeSpent" value="436409000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -721,29 +721,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ClimbingStairs/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CoinChange/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CoinChange/CoinChange_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CoinChange/CoinChange_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CombinationSum/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CombinationSum/CombinationSum_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1062,6 +1039,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/TwoCityScheduling_1029/TwoCityScheduling_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="106" selection-start-line="4" selection-start-column="106" selection-end-line="4" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/TwoCityScheduling_1029/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/NumberOf1Bits_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
