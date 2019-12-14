@@ -51,7 +51,7 @@ public class mergeKLists_java {
         if (len == 0) {
             return null;
         }
-        PriorityQueue<ListNode> priorityQueue = new PriorityQueue<>(len, Comparator.comparingInt(a -> a.val));
+        PriorityQueue<ListNode> priorityQueue = new PriorityQueue<>(len, (a,b) -> (a.val -b.val));
         ListNode dummyNode = new ListNode(-1);
         ListNode curNode = dummyNode;
         for (ListNode list : lists) {
