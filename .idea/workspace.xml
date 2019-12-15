@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/DecodeWays_91/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/DecodeWays_91/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/interviw_hot/DecodeWays_91/Solution_java.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/interviw_hot/FractionToRecurringDecimal_166/Solution_java.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/interviw_hot/PowXN_50/Solution_java.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interviw_hot/FractionToRecurringDecimal_166/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/FractionToRecurringDecimal_166/Solution_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/heap/mergeKLists/mergeKLists_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/heap/mergeKLists/mergeKLists_java.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/BasicCalculatorII_227/Solution_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviw_hot/BasicCalculatorII_227/Solution_java.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
+            <state relative-caret-position="855">
               <caret line="64" column="49" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -68,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -78,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/describtion">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="720">
-              <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -232,7 +221,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,6 +294,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -687,12 +676,13 @@
       <workItem from="1576244552960" duration="5023000" />
       <workItem from="1576258080865" duration="1238000" />
       <workItem from="1576292144184" duration="802000" />
-      <workItem from="1576304074729" duration="391000" />
+      <workItem from="1576304074729" duration="817000" />
+      <workItem from="1576417807587" duration="785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="471495000" />
+    <option name="totallyTimeSpent" value="472706000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -705,9 +695,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28381255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28647497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1106,6 +1095,29 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="64" column="49" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourSumII_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1134,33 +1146,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="64" column="49" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
