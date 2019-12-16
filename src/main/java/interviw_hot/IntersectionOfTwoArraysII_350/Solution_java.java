@@ -15,7 +15,8 @@ public class Solution_java {
         for(int num : nums2) {
             if(map.containsKey(num)) {
                 map.put(num, map.get(num) - 1);
-                if(map.get(num) == 0) map.remove(num);
+                if(map.get(num) == 0)
+                    map.remove(num);
                 list.add(num);
             }
         }
