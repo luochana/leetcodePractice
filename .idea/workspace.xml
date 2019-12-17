@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/Solution_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,24 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/Solution_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNode_116/Solution_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/describtion">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -47,18 +28,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="40" />
+            <state relative-caret-position="495">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/Solution_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -125,9 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/TwoCityScheduling_1029/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/NumberOf1Bits_191/NumberOf1Bits_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/SurroundedRegions_130/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/SurroundedRegions_130/SurroundedRegions_java.java" />
@@ -176,6 +176,9 @@
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNode_116/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/Solution_java.java" />
       </list>
     </option>
   </component>
@@ -245,7 +248,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -253,8 +256,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hot_100" type="462c0819:PsiDirectoryNode" />
-              <item name="ConstructBinaryTreeFromInorderAndPostorderTraversal_106" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="IntegerToRoman_12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -648,12 +651,13 @@
       <workItem from="1576479916669" duration="1854000" />
       <workItem from="1576501860766" duration="399000" />
       <workItem from="1576507555522" duration="6045000" />
-      <workItem from="1576549325339" duration="2146000" />
+      <workItem from="1576549325339" duration="2515000" />
+      <workItem from="1576608071004" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485110000" />
+    <option name="totallyTimeSpent" value="485602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -666,9 +670,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29925454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3024494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -743,20 +746,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ShuffleAnArray_384/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FindPeakElement_162/Sulotion_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/LongestSubstringWithAtLeastK_395/ddscribtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1065,6 +1054,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1096,20 +1099,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="495">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/Solution_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="40" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
