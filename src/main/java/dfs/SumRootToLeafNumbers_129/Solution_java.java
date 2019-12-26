@@ -9,7 +9,7 @@ class TreeNode {
 }
 
 public class Solution_java {
-    
+
     int res = 0;
     public int sumNumbers(TreeNode root) {
         if(root == null)

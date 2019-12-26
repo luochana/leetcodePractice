@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/Solution_java.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,31 +19,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BalancedBinaryTree_110/Solution_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BinaryTreeRightSideView_199/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BinaryTreeRightSideView_199/Sulotion_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BinaryTreeRightSideView_199/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -129,8 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/EvaluateReversePolishNotation_150/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/EvaluateReversePolishNotation_150/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNode_116/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/GasStation_143/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/GasStation_143/Solution_java.java" />
@@ -180,6 +176,8 @@
         <option value="$PROJECT_DIR$/src/main/java/dfs/BalancedBinaryTree_110/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/dfs/BinaryTreeRightSideView_199/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/dfs/BinaryTreeRightSideView_199/Sulotion_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/Solution_java.java" />
       </list>
     </option>
   </component>
@@ -218,7 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,20 +258,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dfs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dfs" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeRightSideView_199" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -669,12 +658,15 @@
       <workItem from="1576992511790" duration="1105000" />
       <workItem from="1577073136010" duration="2291000" />
       <workItem from="1577157909251" duration="1925000" />
-      <workItem from="1577209767352" duration="596000" />
+      <workItem from="1577209767352" duration="1082000" />
+      <workItem from="1577245147875" duration="1017000" />
+      <workItem from="1577327621866" duration="26000" />
+      <workItem from="1577332901770" duration="280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="493350000" />
+    <option name="totallyTimeSpent" value="495159000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -687,9 +679,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22044729" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22683705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -764,20 +755,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/IncreasingTripletSubsequence_334/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/IncreasingTripletSubsequence_334/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/WiggleSortII_324/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1086,6 +1063,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BinaryTreeRightSideView_199/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BalancedBinaryTree_110/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1131,10 +1122,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BinaryTreeRightSideView_199/describtion">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/SumRootToLeafNumbers_129/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
