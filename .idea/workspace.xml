@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/Solution_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,34 +20,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/array/FourSum_18/Solution_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="735">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bfs/f1">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/Solution_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/Solution_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="75" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/describtion">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -124,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/FindPeakElement_162/Sulotion_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/LongestSubstringWithAtLeastK_395/ddscribtion" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/LongestSubstringWithAtLeastK_395/Sulotion_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/CopyListWithRandomPointer_138/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/CopyListWithRandomPointer_138/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/WordLadder_127/describtion" />
@@ -174,7 +171,10 @@
         <option value="$PROJECT_DIR$/src/main/java/dfs/PathSumII_113/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/array/FourSum_18/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/FourSum_18/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/describtion" />
       </list>
     </option>
   </component>
@@ -253,7 +253,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bfs" type="462c0819:PsiDirectoryNode" />
-              <item name="MinimumHeightTrees_310" type="462c0819:PsiDirectoryNode" />
+              <item name="FindLargestValueInEachTreeRow_515" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -662,12 +662,15 @@
       <workItem from="1577332901770" duration="527000" />
       <workItem from="1577373998660" duration="1124000" />
       <workItem from="1577456330091" duration="655000" />
-      <workItem from="1577506337613" duration="1795000" />
+      <workItem from="1577506337613" duration="2104000" />
+      <workItem from="1577587406334" duration="596000" />
+      <workItem from="1577619047151" duration="602000" />
+      <workItem from="1577679031984" duration="1447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="498980000" />
+    <option name="totallyTimeSpent" value="501934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -682,7 +685,7 @@
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23322684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23961662" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -757,20 +760,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FindPeakElement_162/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/ShuffleAnArray_384/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1055,6 +1044,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/FourSum_18/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/f1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dfs/PathSum_112/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1093,28 +1102,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/FourSum_18/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/f1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bfs/MinimumHeightTrees_310/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="75" selection-end-column="5" />
+        <state relative-caret-position="735">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/FindLargestValueInEachTreeRow_515/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
