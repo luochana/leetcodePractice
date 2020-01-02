@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/Solution_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bfs/FindBottomLeftTreeValue_513/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bfs/FindBottomLeftTreeValue_513/Solution_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/FourSum_18/Solution_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/FourSum_18/Solution_java.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,35 +20,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bfs/FindBottomLeftTreeValue_513/Solution_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/lang/String.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
-              <folding>
-                <element signature="e#22786#22787#0" expanded="true" />
-                <element signature="e#22821#22822#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="690">
+              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -137,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/LargestNumber_179/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/LargestNumber_179/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/IncreasingTripletSubsequence_334/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/IncreasingTripletSubsequence_334/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/WiggleSortII_324/describtion" />
@@ -188,6 +177,8 @@
         <option value="$PROJECT_DIR$/src/main/java/bfs/FindBottomLeftTreeValue_513/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/Solution_java.java" />
       </list>
     </option>
   </component>
@@ -226,7 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,13 +257,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="greed" type="462c0819:PsiDirectoryNode" />
-              <item name="IsSubsequence_392" type="462c0819:PsiDirectoryNode" />
+              <item name="WiggleSubsequence_376" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,13 +303,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_java (1)">
+  <component name="RunManager" selected="Application.Solution_java (2)">
     <configuration name="Solution_java (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greed.IsSubsequence_392.Solution_java" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="greed.IsSubsequence_392.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_java (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greed.WiggleSubsequence_376.Solution_java" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greed.WiggleSubsequence_376.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,26 +369,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeKLists_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap.mergeKLists.mergeKLists_java" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="heap.mergeKLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_java (2)" />
         <item itemvalue="Application.Solution_java (1)" />
         <item itemvalue="Application.Solution_java" />
         <item itemvalue="Application.Solution_java (4)" />
         <item itemvalue="Application.Solution_java (3)" />
-        <item itemvalue="Application.mergeKLists_java" />
       </list>
     </recent_temporary>
   </component>
@@ -681,12 +672,14 @@
       <workItem from="1577679031984" duration="1628000" />
       <workItem from="1577758951365" duration="595000" />
       <workItem from="1577777576067" duration="2243000" />
-      <workItem from="1577851715380" duration="2868000" />
+      <workItem from="1577851715380" duration="3612000" />
+      <workItem from="1577937668260" duration="599000" />
+      <workItem from="1577986972214" duration="1932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="507821000" />
+    <option name="totallyTimeSpent" value="511096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -699,9 +692,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24760383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25292864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -711,7 +703,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21566524" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40236053" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40236053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
@@ -776,20 +768,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/DecodeWays_91/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/MergeTwoSortedLists/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1070,6 +1048,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/FindBottomLeftTreeValue_513/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dfs/PathSum_112/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1108,38 +1114,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/FindBottomLeftTreeValue_513/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/greed/IsSubsequence_392/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/describtion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/greed/WiggleSubsequence_376/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
         </state>
       </provider>
     </entry>
