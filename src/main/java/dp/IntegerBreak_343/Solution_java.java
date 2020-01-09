@@ -2,6 +2,8 @@ package dp.IntegerBreak_343;
 
 public class Solution_java {
 
+    //粗糙的dp，击败34%，应该有更好的解法
+
     public int integerBreak(int n) {
         int[] dp = new int[n + 1];
         dp[1] = 1;
