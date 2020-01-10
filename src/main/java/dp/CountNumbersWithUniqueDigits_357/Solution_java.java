@@ -1,7 +1,8 @@
 package dp.CountNumbersWithUniqueDigits_357;
 
 public class Solution_java {
-    
+
+    //dp,击败100%
     public int countNumbersWithUniqueDigits(int n) {
         if(n == 0)
             return 1;

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/Triangle_120/Solution_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/Triangle_120/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/Solution_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/CountNumbersWithUniqueDigits_357/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/CountNumbersWithUniqueDigits_357/Solution_java.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,32 +21,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/RangeSumQuery_303/Solution_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp/CountNumbersWithUniqueDigits_357/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/Solution_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp/Triangle_120/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="192">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp/Triangle_120/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="345">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -131,10 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/BasicCalculatorII_227/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/BasicCalculatorII_227/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PowXN_50/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PowXN_50/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/FractionToRecurringDecimal_166/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/FractionToRecurringDecimal_166/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/DecodeWays_91/describtion" />
@@ -182,6 +179,10 @@
         <option value="$PROJECT_DIR$/src/main/java/dp/RangeSumQuery_303/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp/CountNumbersWithUniqueDigits_357/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/dp/CountNumbersWithUniqueDigits_357/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp/Triangle_120/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/dp/Triangle_120/Solution_java.java" />
       </list>
     </option>
   </component>
@@ -221,6 +222,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,11 +256,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="Triangle_120" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_java (2)">
+  <component name="RunManager" selected="Application.Solution_java (5)">
     <configuration name="Solution_java (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greed.IsSubsequence_392.Solution_java" />
       <module name="leetcode" />
@@ -324,12 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_java (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dfs.CourseScheduleII_210.Solution_java" />
+    <configuration name="Solution_java (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FourSum_18.Solution_java" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dfs.CourseScheduleII_210.*" />
+          <option name="PATTERN" value="array.FourSum_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_java (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FourSum_18.Solution_java" />
+    <configuration name="Solution_java (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Triangle_120.Solution_java" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.FourSum_18.*" />
+          <option name="PATTERN" value="dp.Triangle_120.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_java (5)" />
         <item itemvalue="Application.Solution_java (2)" />
         <item itemvalue="Application.Solution_java (1)" />
         <item itemvalue="Application.Solution_java" />
         <item itemvalue="Application.Solution_java (4)" />
-        <item itemvalue="Application.Solution_java (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -675,12 +685,14 @@
       <workItem from="1578283218899" duration="893000" />
       <workItem from="1578372325428" duration="599000" />
       <workItem from="1578408325684" duration="946000" />
-      <workItem from="1578536672615" duration="595000" />
+      <workItem from="1578536672615" duration="786000" />
+      <workItem from="1578627893902" duration="1198000" />
+      <workItem from="1578662825884" duration="3296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="515564000" />
+    <option name="totallyTimeSpent" value="520249000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,9 +705,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2715655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2768903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -705,7 +716,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21566524" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40236053" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40236053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
@@ -760,6 +771,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/Triangle_120/Solution_java.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
@@ -770,30 +793,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/aa">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/ConvertSortedListToBST_109/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/IntersectionOfTwoArraysII_350/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454/FourSumII_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1079,6 +1078,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/CountNumbersWithUniqueDigits_357/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dp/RangeSumQuery_303/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1124,10 +1137,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/IntegerBreak_343/Solution_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/CountNumbersWithUniqueDigits_357/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/Triangle_120/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/Triangle_120/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
