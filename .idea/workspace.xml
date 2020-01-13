@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/Solition_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,15 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/UglyNumberII_264/Solution_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -37,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/describtion">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/Solition_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="762">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -128,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/heap/mergeKLists/mergeKLists_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/RecoverBinarySearchTree_99/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/IntersectionOfTwoArraysII_350/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/interviw_hot/IntersectionOfTwoArraysII_350/Solution_java.java" />
@@ -179,6 +177,8 @@
         <option value="$PROJECT_DIR$/src/main/java/dp/UglyNumberII_264/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/Solition_java.java" />
       </list>
     </option>
   </component>
@@ -217,6 +217,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,14 +259,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="HouseRobberII_213" type="462c0819:PsiDirectoryNode" />
+              <item name="PalindromePartitioningII_132" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -686,11 +686,12 @@
       <workItem from="1578662825884" duration="3508000" />
       <workItem from="1578714910896" duration="728000" />
       <workItem from="1578848662680" duration="774000" />
+      <workItem from="1578927540148" duration="1477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="521963000" />
+    <option name="totallyTimeSpent" value="523440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -703,8 +704,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28221512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28487754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -779,20 +781,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNode_116/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -1078,6 +1066,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/UglyNumberII_264/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dp/RangeSumQuery_303/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1123,24 +1125,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/UglyNumberII_264/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dp/HouseRobberII_213/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp/PalindromePartitioningII_132/Solition_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
     </entry>
