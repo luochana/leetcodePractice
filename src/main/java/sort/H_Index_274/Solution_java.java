@@ -11,6 +11,9 @@ public class Solution_java {
         while (i < citations.length && citations[citations.length - 1 - i] > i) {
             i++;
         }
+
         return i;
     }
 }
+
+
