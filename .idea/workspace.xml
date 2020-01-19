@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bitManipulation/SingleNumberII_137/Solution_java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bitManipulation/day2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bitManipulation/SingleNumberII_137/describtion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,39 +20,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sort/H_Index_274/Solution_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sort/ValidAnagram_242/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sort/InsertionSortList_147/Solution_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/SingleNumberII_137/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="60">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sort/InsertionSortList_147/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sort/H_Index_274/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/SingleNumberII_137/describtion">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -126,9 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNode_116/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interviw_hot/PopulatingNextRightPointersInEachNodeII_117/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFromInorderAndPostorderTraversal_106/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/array/IntegerToRoman_12/Solution_java.java" />
@@ -177,6 +163,9 @@
         <option value="$PROJECT_DIR$/src/main/java/sort/H_Index_274/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/InsertionSortList_147/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sort/InsertionSortList_147/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/ValidAnagram_242/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/ValidAnagram_242/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bitManipulation/SingleNumberII_137/Solution_java.java" />
       </list>
     </option>
   </component>
@@ -215,8 +204,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,7 +237,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="bitManipulation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -256,16 +245,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="InsertionSortList_147" type="462c0819:PsiDirectoryNode" />
+              <item name="bitManipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleNumberII_137" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -698,12 +679,13 @@
       <workItem from="1579080576172" duration="1276000" />
       <workItem from="1579146216409" duration="585000" />
       <workItem from="1579190809348" duration="2648000" />
-      <workItem from="1579277991465" duration="597000" />
+      <workItem from="1579277991465" duration="963000" />
+      <workItem from="1579455326461" duration="940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="530726000" />
+    <option name="totallyTimeSpent" value="532032000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -716,9 +698,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3035144" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30670926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -793,47 +774,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/PathSumII_113/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/PathSumII_113/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/FourSum_18/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/BalancedBinaryTree_110/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/FourSum_18/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bfs/f1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1111,6 +1051,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/InsertionSortList_147/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/ValidAnagram_242/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sort/H_Index_274/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1156,10 +1110,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/InsertionSortList_147/Solution_java.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/ValidAnagram_242/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/day2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/SingleNumberII_137/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bitManipulation/SingleNumberII_137/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
