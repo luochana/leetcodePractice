@@ -1,7 +1,7 @@
 package bitManipulation.MaximumProductOfWordLengths_318;
 
 public class Solution_java {
-    
+
     public int maxProduct(String[] words) {
 
         //将每个单词转化为一个int型的"位"表示
