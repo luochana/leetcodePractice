@@ -57,5 +57,5 @@ public class Solution_java {
             res.add(candidateB);
         return res;
     }
-    
+
 }
