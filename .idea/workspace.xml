@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/CountCompleteTreeNodes_222/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/CountCompleteTreeNodes_222/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/day2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/twoPointers/ValidPalindrome_125/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoPointers/ValidPalindrome_125/Solution_java.java" afterDir="false" />
-    </list>
+    <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -703,12 +697,12 @@
       <workItem from="1580190426856" duration="232000" />
       <workItem from="1580191083483" duration="18000" />
       <workItem from="1580191484566" duration="218000" />
-      <workItem from="1580275505879" duration="1365000" />
+      <workItem from="1580275505879" duration="1995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="547446000" />
+    <option name="totallyTimeSpent" value="548076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
