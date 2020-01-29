@@ -15,7 +15,7 @@ public class Solution_java {
                 continue;
             }
             if((s.charAt(left) == s.charAt(rigth)) || Math.abs(s.charAt(left) - s.charAt(rigth)) == 32){
-                //大小写字母ascii码相差32对于‘0’和‘P’特特例不适用
+                //大小写字母ascii码相差32对于‘0’和‘P’特例不适用
                 if((s.charAt(left) == '0' && s.charAt(rigth) == 'P') || (s.charAt(left) == 'P' && s.charAt(rigth) == '0'))
                     return false;
                 ++left;
