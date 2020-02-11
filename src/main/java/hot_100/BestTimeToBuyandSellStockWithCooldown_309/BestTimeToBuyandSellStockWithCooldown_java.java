@@ -1,4 +1,4 @@
-package hot_100.BestTimeToBuyandSellStockWithCooldown;
+package hot_100.BestTimeToBuyandSellStockWithCooldown_309;
 
 public class BestTimeToBuyandSellStockWithCooldown_java {
     public int maxProfit(int[] prices) {

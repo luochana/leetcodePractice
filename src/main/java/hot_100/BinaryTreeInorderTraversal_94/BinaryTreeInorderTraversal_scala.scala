@@ -1,4 +1,4 @@
-package hot_100.BinaryTreeInorderTraversal
+package hot_100.BinaryTreeInorderTraversal_94
 
 
 import java.util.{ArrayList, List, Stack}

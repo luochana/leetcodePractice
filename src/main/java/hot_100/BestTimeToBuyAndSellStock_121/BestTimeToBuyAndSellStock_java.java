@@ -1,4 +1,4 @@
-package hot_100.BestTimeToBuyAndSellStock;
+package hot_100.BestTimeToBuyAndSellStock_121;
 
 public class BestTimeToBuyAndSellStock_java {
     public int maxProfit(int[] prices) {

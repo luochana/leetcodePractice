@@ -1,4 +1,4 @@
-package hot_100.BestTimeToBuyAndSellStock
+package hot_100.BestTimeToBuyAndSellStock_121
 
 class BestTimeToBuyAndSellStock_scala {
   def maxProfit(prices: Array[Int]): Int = {
