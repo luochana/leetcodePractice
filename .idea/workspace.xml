@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/solution" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/solution" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock_121/BestTimeToBuyAndSellStock_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock_121/BestTimeToBuyAndSellStock_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock_121/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown/BestTimeToBuyandSellStockWithCooldown_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown/BestTimeToBuyandSellStockWithCooldown_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal_94/BinaryTreeInorderTraversal_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal_94/BinaryTreeInorderTraversal_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal_94/describtion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,19 +20,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock_121/BestTimeToBuyAndSellStock_scala.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/solution">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="15">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/solution">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/solution">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -134,8 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/array/CombinationSumII_40/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/array/CombinationSumII_40/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/RemoveDuplicatesFromSortedArrayII_80/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/array/RemoveDuplicatesFromSortedArrayII_80/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/SummaryRanges_228/describtion" />
@@ -185,6 +183,8 @@
         <option value="$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeInorderTraversal/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/solution" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/solution" />
       </list>
     </option>
   </component>
@@ -223,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -264,13 +265,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sql" type="462c0819:PsiDirectoryNode" />
-              <item name="DeleteDuplicateEmails_196" type="462c0819:PsiDirectoryNode" />
+              <item name="RisingTemperature_197" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -741,11 +741,12 @@
       <workItem from="1581334905863" duration="1322000" />
       <workItem from="1581446999244" duration="22000" />
       <workItem from="1581447125931" duration="1182000" />
+      <workItem from="1581492115098" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="565297000" />
+    <option name="totallyTimeSpent" value="566226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -758,8 +759,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23269436" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23482428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -834,20 +836,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/list/ReorderList_143/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/list/ReorderList_143/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1068,7 +1056,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock_121/BestTimeToBuyAndSellStock_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -1114,17 +1109,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/solution">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/solution">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
