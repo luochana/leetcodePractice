@@ -6,3 +6,23 @@ FROM
     weather w ON DATEDIFF(weather.RecordDate, w.RecordDate) = 1
         AND weather.Temperature > w.Temperature
 ;
+
+
+
+
+hive窗口函数:
+
+
+select weather.*, lag(weather.Temperature, 1, 0) over(order by weather.Id) as next_temp, lag(weather.RecordDate, 1, 0) over(order by weather.Id) as next_date
+
+
+select
+    t1.id as ID
+from
+    (
+    select weather.*, lag(weather.Temperature, 1, 0) over(order by weather.Id) as next_temp, lag(weather.RecordDate, 1, 0) over(order by weather.Id) as next_date
+    )t1
+where
+    DATEDIFF(t1.RecordDate, t1.next_date) = 1
+and
+    t1.Temperature - next_temp > 0;
