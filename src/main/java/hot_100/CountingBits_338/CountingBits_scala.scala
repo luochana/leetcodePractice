@@ -1,4 +1,4 @@
-package hot_100.CountingBits
+package hot_100.CountingBits_338
 
 /*
    dp,scala超时,和java写法一样.java超越80%

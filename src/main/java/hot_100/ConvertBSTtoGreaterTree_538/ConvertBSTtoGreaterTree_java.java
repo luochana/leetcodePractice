@@ -1,4 +1,4 @@
-package hot_100.ConvertBSTtoGreaterTree;
+package hot_100.ConvertBSTtoGreaterTree_538;
 
 class TreeNode {
     int val;

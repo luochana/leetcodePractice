@@ -1,6 +1,6 @@
 
 //没通过,原因在找
-package hot_100.DailyTemperatures
+package hot_100.DailyTemperatures_739
 
 object DailyTemperatures_scala {
   def dailyTemperatures(T: Array[Int]): Array[Int] = {

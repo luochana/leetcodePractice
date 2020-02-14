@@ -1,4 +1,4 @@
-package hot_100.CourseSchedule
+package hot_100.CourseSchedule_207
 
 class CourseSchedule_scala {
   def canFinish(numCourses: Int, prerequisites: Array[Array[Int]]): Boolean = {

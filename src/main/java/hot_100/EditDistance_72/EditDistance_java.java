@@ -1,4 +1,4 @@
-package hot_100.EditDistance;
+package hot_100.EditDistance_72;
 
 
 //https://leetcode-cn.com/problems/edit-distance/solution/edit-distance-dong-tai-gui-hua-by-jyd/

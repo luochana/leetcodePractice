@@ -1,4 +1,4 @@
-package hot_100.DiameterofBinaryTree
+package hot_100.DiameterofBinaryTree_543
 
 //提交提示输入为空时,运行输出为3.但本地测试输出为0
 object DiameterofBinaryTree_scala {

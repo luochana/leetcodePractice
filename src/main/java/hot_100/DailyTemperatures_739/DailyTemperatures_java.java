@@ -1,4 +1,4 @@
-package hot_100.DailyTemperatures;
+package hot_100.DailyTemperatures_739;
 
 public class DailyTemperatures_java {
     public int[] dailyTemperatures(int[] T) {
@@ -7,7 +7,7 @@ public class DailyTemperatures_java {
         //从右向左遍历
         for (int i = length - 2; i >= 0; i--) {
             // j+= result[j]是利用已经有的结果进行跳跃
-            for (int j = i + 1; j < length; j+= result[j]) {
+            for (int j = i + 1; j < length; j += result[j]) {
                 if (T[j] > T[i]) {
                     result[i] = j - i;
                     break;

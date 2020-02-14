@@ -1,4 +1,4 @@
-package hot_100.DecodeString
+package hot_100.DecodeString_394
 
 import java.util.LinkedList
 

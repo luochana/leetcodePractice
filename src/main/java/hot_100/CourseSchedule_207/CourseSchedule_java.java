@@ -1,4 +1,4 @@
-package hot_100.CourseSchedule;
+package hot_100.CourseSchedule_207;
 
 //dfs判断课程安排图是否是有向无环图(DAG)
 public class CourseSchedule_java {
@@ -8,7 +8,8 @@ public class CourseSchedule_java {
         for(int[] cp : prerequisites)
             adjacency[cp[1]][cp[0]] = 1;
         for(int i = 0; i < numCourses; i++){
-            if(!dfs(adjacency, flags, i)) return false;
+            if(!dfs(adjacency, flags, i))
+                return false;
         }
         return true;
     }
