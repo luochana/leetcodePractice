@@ -1,4 +1,4 @@
-package hot_100.ClimbingStairs
+package hot_100.ClimbingStairs_70
 
 class ClimbingStairs_scala {
   def climbStairs(n: Int): Int = {

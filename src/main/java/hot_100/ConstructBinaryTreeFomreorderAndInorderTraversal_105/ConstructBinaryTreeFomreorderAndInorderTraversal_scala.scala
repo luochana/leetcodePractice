@@ -1,0 +1,5 @@
+package hot_100.ConstructBinaryTreeFomreorderAndInorderTraversal_105
+
+class ConstructBinaryTreeFomreorderAndInorderTraversal_scala {
+
+}

@@ -1,4 +1,18 @@
-package hot_100.BurstBalloons;
+package hot_100.BurstBalloons_312;
+
+//https://leetcode-cn.com/problems/burst-balloons/solution/312-chuo-qi-qiu-java-dong-tai-gui-hua-by-pphdsny/
+
+
+/**
+ * 解题思路：如何使最终结果最大化？动态规划保存结果
+ * 1.将问题拆解成求i->j的最大值，最大的i=0,j=n
+ * 2.从i->j中找一个k，拆分求解，i->k,k,k->j三个值之和的最大值
+ * 3.i->k和k->j代表k的左边和右边全部戳破求解的最大值
+ * 4.左右全部戳破后，k的值为num[i]*num[k]*num[j]
+ * 5.动态转移方程：dp[i][j]=Math.max(dp[i][j],dp[i][k]+dp[k][j]+num[i]*num[k]*num[j]);
+ *
+ */
+
 
 public class BurstBalloons_java {
 
@@ -12,7 +26,9 @@ public class BurstBalloons_java {
         }
         newNums[0] = 1;
         newNums[newNums.length - 1] = 1;
+
         //从2开始，保证最少3个
+        //j表示区间长度，i表示区间的起始端点，k为区间[i, i + j]的遍历指针
         for (int j = 2; j < newNums.length; j++) {
             //遍历所有的可能性，0-2...0-n,1-3...1-n,...
             for (int i = 0; i < newNums.length - j; i++) {

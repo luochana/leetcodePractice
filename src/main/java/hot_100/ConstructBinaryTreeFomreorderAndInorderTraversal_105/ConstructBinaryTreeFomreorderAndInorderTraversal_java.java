@@ -1,4 +1,4 @@
-package hot_100.ConstructBinaryTreeFomreorderAndInorderTraversal;
+package hot_100.ConstructBinaryTreeFomreorderAndInorderTraversal_105;
 
 import java.util.HashMap;
 

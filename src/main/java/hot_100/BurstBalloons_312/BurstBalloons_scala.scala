@@ -1,4 +1,4 @@
-package hot_100.BurstBalloons
+package hot_100.BurstBalloons_312
 
 class BurstBalloons_scala {
   def maxCoins(nums: Array[Int]): Int = {

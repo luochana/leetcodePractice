@@ -1,4 +1,4 @@
-package hot_100.ClimbingStairs;
+package hot_100.ClimbingStairs_70;
 
 public class ClimbingStairs_java {
     public int climbStairs(int n) {

@@ -1,4 +1,4 @@
-package hot_100.CombinationSum;
+package hot_100.CombinationSum_39;
 
 import java.util.ArrayList;
 import java.util.Arrays;

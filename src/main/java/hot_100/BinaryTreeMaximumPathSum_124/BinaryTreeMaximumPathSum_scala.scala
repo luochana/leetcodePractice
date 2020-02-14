@@ -1,4 +1,4 @@
-package hot_100.BinaryTreeMaximumPathSum
+package hot_100.BinaryTreeMaximumPathSum_124
 
 class BinaryTreeMaximumPathSum_scala {
   private var max_sum = Integer.MIN_VALUE

@@ -1,4 +1,4 @@
-package hot_100.CoinChange;
+package hot_100.CoinChange_322;
 
 import java.util.Arrays;
 
