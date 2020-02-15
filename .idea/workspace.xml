@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/solution" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/RankScores_178/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/RankScores_178/solution" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree_538/ConvertBSTtoGreaterTree_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree_538/ConvertBSTtoGreaterTree_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ConvertBSTtoGreaterTree_538/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits/CountingBits_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits_338/CountingBits_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits/CountingBits_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits_338/CountingBits_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/CountingBits_338/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule_207/CourseSchedule_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/CourseSchedule_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule_207/CourseSchedule_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule_207/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/DailyTemperatures_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures_739/DailyTemperatures_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/DailyTemperatures_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures_739/DailyTemperatures_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DailyTemperatures_739/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DecodeString/DecodeString_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DecodeString_394/DecodeString_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DecodeString/DecodeString_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DecodeString_394/DecodeString_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DecodeString/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DecodeString_394/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree/DiameterofBinaryTree_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree_543/DiameterofBinaryTree_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree/DiameterofBinaryTree_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree_543/DiameterofBinaryTree_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree_543/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/EditDistance_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/EditDistance_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/EditDistance_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/FindAllAnagramsInAString_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/describtion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree_543/describtion">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="59" />
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -77,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_java.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -95,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/solution">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -242,7 +214,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,19 +247,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-              <item name="ConsecutiveNumbers_180" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -765,11 +728,13 @@
       <workItem from="1581655705408" duration="1194000" />
       <workItem from="1581683278313" duration="14000" />
       <workItem from="1581685131485" duration="11202000" />
+      <workItem from="1581754242209" duration="596000" />
+      <workItem from="1581772196910" duration="669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="589094000" />
+    <option name="totallyTimeSpent" value="590359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -783,7 +748,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25559106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26091588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1116,7 +1081,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree_543/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="59" />
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -1124,13 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/EditDistance_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1143,14 +1101,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/RankScores_178/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1168,10 +1119,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/RankScores_178/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/EditDistance_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/solution">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
