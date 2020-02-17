@@ -1,4 +1,4 @@
-package hot_100.FlattenBinaryTreeToLinkedList;
+package hot_100.FlattenBinaryTreeToLinkedList_114;
 
 import java.util.Stack;
 
@@ -42,6 +42,26 @@ public class FlattenBinaryTreeToLinkedList_java {
                     tail.left=null;
                     tail = temp;
                 }
+            }
+        }
+    }
+
+
+
+    //m2
+    //https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by--26/
+    public void flatten1(TreeNode root){
+        while(root != null){
+            if(root.left ==null){
+                root = root.right;
+            }else {
+                TreeNode pre = root.left;
+                while(pre.right != null){
+                    pre = pre.right;
+                }
+                pre.right = root.right;
+                root.right = root.left;
+                root = root.right;
             }
         }
     }

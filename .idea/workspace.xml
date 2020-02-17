@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/solution" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray_448/FindAllNumbersDisappearedinanArray_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray_448/FindAllNumbersDisappearedinanArray_scala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray_448/describtion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindNumInSortedArr_34/FindNumInSortedArr_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindNumInSortedArr_34/FindNumInSortedArr_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber/FindTheDuplicateNumber_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber_287/FindTheDuplicateNumber_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber/FindTheDuplicateNumber_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber_287/FindTheDuplicateNumber_scala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber_287/describtion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList_114/FlattenBinaryTreeToLinkedList_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList_114/FlattenBinaryTreeToLinkedList_scala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList/describrtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList_114/describrtion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams/GroupAnagrams_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams/GroupAnagrams_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_scala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/describtion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HammingDistance/HammingDistance_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HammingDistance/HammingDistance_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_scala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HammingDistance/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/describtion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,83 +36,83 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree_543/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="59" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/DiameterofBinaryTree_543/DiameterofBinaryTree_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/describtion">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="30">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sql/RankScores_178/solution">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="30">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/describtion">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/solution">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/solution">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/describtion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sql/RankScores_178/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/EditDistance_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="570">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -124,20 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/BinarySearch/SearchA2DMatrix_74/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/BinarySearch/SearchA2DMatrix_74/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/SwapSalary_627/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/SwapSalary_627/solution" />
-        <option value="$PROJECT_DIR$/src/main/java/DivideAndConquer/DifferentWaysToAddParentheses_241/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/DivideAndConquer/DifferentWaysToAddParentheses_241/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/Combinations_77/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/Combinations_77/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/CombinationSumIII_216/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/CombinationSumIII_216/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/NotBoringMovies_620/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/NotBoringMovies_620/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/NotBoringMovies_620/solution" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/CombineTwoTables_175/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sql/CombineTwoTables_175/solution" />
         <option value="$PROJECT_DIR$/src/main/java/sql/EmployeesEarningMoreThanTheirManagers_181/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sql/EmployeesEarningMoreThanTheirManagers_181/solution.java" />
@@ -175,6 +179,20 @@
         <option value="$PROJECT_DIR$/src/main/java/sql/RankScores_178/solution" />
         <option value="$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sql/ConsecutiveNumbers_180/solution" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/NthHighestSalary_177/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/NthHighestSalary_177/solution" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams/GroupAnagrams_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray_448/FindAllNumbersDisappearedinanArray_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/FindNumInSortedArr_34/FindNumInSortedArr_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber_287/FindTheDuplicateNumber_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList_114/FlattenBinaryTreeToLinkedList_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/solution" />
       </list>
     </option>
   </component>
@@ -213,7 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,10 +264,20 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="DepartmentHighestSalary_184" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -729,12 +756,13 @@
       <workItem from="1581683278313" duration="14000" />
       <workItem from="1581685131485" duration="11202000" />
       <workItem from="1581754242209" duration="596000" />
-      <workItem from="1581772196910" duration="669000" />
+      <workItem from="1581772196910" duration="7863000" />
+      <workItem from="1581961096884" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="590359000" />
+    <option name="totallyTimeSpent" value="598478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -748,7 +776,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26091588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26357827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -823,149 +851,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/solution">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/RisingTemperature_197/solution">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/ClassesMoreThan5Students_596/describtiion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DeleteDuplicateEmails_196/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyAndSellStock_121/BestTimeToBuyAndSellStock_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/CustomersWhoNeverOrder_183/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DivideAndConquer/DifferentWaysToAddParentheses_241/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/ClassesMoreThan5Students_596/solution">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal_102/BinaryTreeLevelOrderTraversal_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal_102/BinaryTreeLevelOrderTraversal_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeLevelOrderTraversal_102/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeMaximumPathSum_124/BinaryTreeMaximumPathSum_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BinaryTreeMaximumPathSum_124/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BurstBalloons_312/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BurstBalloons_312/BurstBalloons_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ClimbingStairs_70/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ClimbingStairs_70/ClimbingStairs_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CoinChange_322/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1095,9 +980,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/EditDistance_72/describtion">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1137,6 +1019,135 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/NthHighestSalary_177/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/NthHighestSalary_177/solution">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindNumInSortedArr_34/FindNumInSortedArr_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="70" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber_287/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindTheDuplicateNumber_287/FindTheDuplicateNumber_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList_114/FlattenBinaryTreeToLinkedList_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="134" selection-start-line="51" selection-start-column="134" selection-end-line="51" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FlattenBinaryTreeToLinkedList_114/describrtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllAnagramsInAString_438/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray_448/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindNumInSortedArr_34/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/FindAllNumbersDisappearedinanArray_448/FindAllNumbersDisappearedinanArray_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ImplementTrie_PrefixTree/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GenerateParentheses_22/GenerateParentheses_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/describtion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/solution">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>

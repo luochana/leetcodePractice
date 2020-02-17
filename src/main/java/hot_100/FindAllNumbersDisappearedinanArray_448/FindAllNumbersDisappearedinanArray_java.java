@@ -1,4 +1,4 @@
-package hot_100.FindAllNumbersDisappearedinanArray;
+package hot_100.FindAllNumbersDisappearedinanArray_448;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ public class FindAllNumbersDisappearedinanArray_java {
         for(int i = 0;i < nums.length;)
         {
             int loc = nums[i];
-            if(loc == -1 || i == loc-1)
+            if(loc == -1 || i == loc - 1)
             {
                 i++;
                 continue;
@@ -24,9 +24,9 @@ public class FindAllNumbersDisappearedinanArray_java {
             nums[i] = temp;
         }
         List<Integer>ans = new ArrayList(nums.length);
-        for(int i = 0;i < nums.length;i++)
+        for(int i = 0; i < nums.length; i++)
             if(nums[i] == -1)
-                ans.add(i+1);
+                ans.add(i + 1);
         return ans;
 
     }

@@ -48,7 +48,7 @@ public class FindNumInSortedArr_java {
                 hi = mid;
             }
             else {
-                lo = mid+1;
+                lo = mid + 1;
             }
         }
 
@@ -67,7 +67,7 @@ public class FindNumInSortedArr_java {
         }
 
         targetRange[0] = leftIdx;
-        targetRange[1] = extremeInsertionIndex(nums, target, false)-1;
+        targetRange[1] = extremeInsertionIndex(nums, target, false) - 1;
 
         return targetRange;
     }

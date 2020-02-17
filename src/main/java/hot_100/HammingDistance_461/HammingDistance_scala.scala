@@ -1,4 +1,4 @@
-package hot_100.HammingDistance
+package hot_100.HammingDistance_461
 
 class HammingDistance_scala {
   def hammingDistance(x: Int, y: Int): Int = {

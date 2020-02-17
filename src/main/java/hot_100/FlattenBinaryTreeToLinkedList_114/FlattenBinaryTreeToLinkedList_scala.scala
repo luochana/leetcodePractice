@@ -1,4 +1,4 @@
-package hot_100.FlattenBinaryTreeToLinkedList
+package hot_100.FlattenBinaryTreeToLinkedList_114
 
 
 import java.util.Stack

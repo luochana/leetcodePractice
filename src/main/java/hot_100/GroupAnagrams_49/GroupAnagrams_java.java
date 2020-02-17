@@ -1,4 +1,4 @@
-package hot_100.GroupAnagrams;
+package hot_100.GroupAnagrams_49;
 
 import java.util.*;
 
@@ -10,7 +10,8 @@ public class GroupAnagrams_java {
         int[] count = new int[26];
         for (String s : strs) {
             Arrays.fill(count, 0);
-            for (char c : s.toCharArray()) count[c - 'a']++;
+            for (char c : s.toCharArray())
+                count[c - 'a']++;
 
             StringBuilder sb = new StringBuilder("");
             for (int i = 0; i < 26; i++) {
@@ -34,7 +35,8 @@ public class GroupAnagrams_java {
             char[] ca = s.toCharArray();
             Arrays.sort(ca);
             String key = String.valueOf(ca);
-            if (!ans.containsKey(key)) ans.put(key, new ArrayList());
+            if (!ans.containsKey(key))
+                ans.put(key, new ArrayList());
             ans.get(key).add(s);
         }
         return new ArrayList(ans.values());

@@ -1,4 +1,4 @@
-package hot_100.FindTheDuplicateNumber
+package hot_100.FindTheDuplicateNumber_287
 
 import java.util.{HashSet, Set}
 

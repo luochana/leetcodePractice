@@ -1,4 +1,4 @@
-package hot_100.HammingDistance;
+package hot_100.HammingDistance_461;
 
 public class HammingDistance_java {
     public int hammingDistance(int x, int y) {
