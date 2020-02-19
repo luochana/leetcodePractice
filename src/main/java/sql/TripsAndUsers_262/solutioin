@@ -1,0 +1,26 @@
+# t1 将Trips表和Users表关联
+# t2 将由Banned用户的订单过滤掉
+# t3 将取消率算出来
+
+select
+    t3.Day as Day, convert(t3.count_cancle / t3.total, decimal(15,2)) as "Cancellation Rate"
+from
+    (select
+        t2.Day as Day, sum(if(t2.Status = "completed", 0, 1)) as count_cancle, count(*) as total
+    from
+        (select
+            t1.Day as Day, t1.Status as Status, sum(if(t1.Banned = "Yes", 1, 0)) as cc
+        from
+            (select
+                Trips.Id as Id, Trips.Request_at as Day, Trips.Status as Status, Users.Banned as Banned
+            from
+                Trips join Users on Trips.Client_Id = Users.Users_Id
+            union all
+            select
+                Trips.Id as Id, Trips.Request_at as Day, Trips.Status as Status, Users.Banned as Banned
+            from
+                Trips join Users on Trips.Driver_Id = Users.Users_Id) t1
+        group by
+            t1.Id, t1.Day, t1.Status having cc = 0) t2
+    group by t2.Day having t2.Day >= "2013-10-01" and t2.Day <= "2013-10-03") t3
+group by t3.Day;
