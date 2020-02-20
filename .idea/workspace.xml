@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/solutioin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/solution" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,20 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HammingDistance_461/HammingDistance_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,12 +53,38 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/solutioin">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/solutioin">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/solution">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/describtion">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -118,9 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/sql/EmployeesEarningMoreThanTheirManagers_181/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/EmployeesEarningMoreThanTheirManagers_181/solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sql/EmployeesEarningMoreThanTheirManagers_181/solution" />
         <option value="$PROJECT_DIR$/src/main/java/sql/ReformatDepartmentTable_1179/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sql/ReformatDepartmentTable_1179/solution" />
         <option value="$PROJECT_DIR$/src/main/java/sql/CustomersWhoNeverOrder_183/describtion" />
@@ -169,6 +178,9 @@
         <option value="$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/solution" />
         <option value="$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/solutioin" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/describtion" />
+        <option value="$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/solution" />
       </list>
     </option>
   </component>
@@ -207,7 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,6 +266,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -735,12 +747,14 @@
       <workItem from="1581772196910" duration="7863000" />
       <workItem from="1581961096884" duration="925000" />
       <workItem from="1582000238289" duration="599000" />
-      <workItem from="1582112610605" duration="219000" />
+      <workItem from="1582112610605" duration="743000" />
+      <workItem from="1582180285924" duration="590000" />
+      <workItem from="1582188389904" duration="479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="599317000" />
+    <option name="totallyTimeSpent" value="600889000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -753,9 +767,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26890308" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2742279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -830,16 +843,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CombinationSum_39/describtion">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CombinationSum_39/CombinationSum_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ConstructBinaryTreeFomreorderAndInorderTraversal_105/ConstructBinaryTreeFomreorderAndInorderTraversal_java.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -1099,20 +1102,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sql/DepartmentHighestSalary_184/solution">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1127,8 +1116,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sql/TripsAndUsers_262/solutioin">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/describtion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/solution">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
