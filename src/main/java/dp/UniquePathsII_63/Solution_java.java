@@ -19,5 +19,5 @@ public class Solution_java {
         }
         return obstacleGrid[obstacleGrid.length - 1][obstacleGrid[0].length - 1];
     }
-    
+
 }
