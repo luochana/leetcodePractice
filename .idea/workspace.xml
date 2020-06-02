@@ -2,110 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/duplicateNum_03/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/ByteDance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/MeiTuan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/MeiTuan/t2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/UniquePathsII_63/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/UniquePathsII_63/Solution_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/HouseRobber_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber_198/HouseRobber_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/HouseRobber_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber_198/HouseRobber_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobber_198/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobberIII/HouseRobberIII_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobberIII_337/HouseRobberIII_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobberIII/HouseRobberIII_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobberIII_337/HouseRobberIII_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobberIII/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/HouseRobberIII_337/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ImplementTrie_PrefixTree/ImplementTrie_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ImplementTrie_PrefixTree_208/ImplementTrie_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ImplementTrie_PrefixTree/ImplementTrie_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ImplementTrie_PrefixTree_208/ImplementTrie_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/ImplementTrie_PrefixTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/ImplementTrie_PrefixTree_208/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/InvertBinaryTree/InvertBinaryTree_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/InvertBinaryTree_226/InvertBinaryTree_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/InvertBinaryTree/InvertBinaryTree_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/InvertBinaryTree_226/InvertBinaryTree_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/InvertBinaryTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/InvertBinaryTree_226/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree/IsBinarySearchTree_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree_98/IsBinarySearchTree_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree/IsBinarySearchTree_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree_98/IsBinarySearchTree_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsBinarySearchTree_98/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree_101/IsMirrorBinaryTree_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree_101/IsMirrorBinaryTree_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/IsMirrorBinaryTree_101/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/JumpGame/JumpGame_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/JumpGame_55/JumpGame_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/JumpGame/JumpGame_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/JumpGame_55/JumpGame_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/JumpGame/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/JumpGame_55/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/KthLargestElementInAnArray/KthLargestElementInAnArray_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/KthLargestElementInAnArray_215/KthLargestElementInAnArray_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/KthLargestElementInAnArray/KthLargestElementInAnArray_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/KthLargestElementInAnArray_215/KthLargestElementInAnArray_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/KthLargestElementInAnArray/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/KthLargestElementInAnArray_215/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram_84/LargestRectangleInHistogram_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram_84/LargestRectangleInHistogram_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LargestRectangleInHistogram_84/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle/LinkedListCycle_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle_160/LinkedListCycle_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle/LinkedListCycle_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle_160/LinkedListCycle_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycle_160/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII/LinkedListCycleII_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII_142/LinkedListCycleII_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII/LinkedListCycleII_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII_142/LinkedListCycleII_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LinkedListCycleII_142/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestConsecutiveSequence/LongestConsecutiveSequence_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestConsecutiveSequence_128/LongestConsecutiveSequence_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestConsecutiveSequence/LongestConsecutiveSequence_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestConsecutiveSequence_128/LongestConsecutiveSequence_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestConsecutiveSequence/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestConsecutiveSequence_128/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence_300/LongestIncreasingSubsequence_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence_300/LongestIncreasingSubsequence_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence_300/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/LongestValidParentheses_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses_14/LongestValidParentheses_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/LongestValidParentheses_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses_14/LongestValidParentheses_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses_14/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/LowestCommonAncestorOfABinaryTree_java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree_scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/LowestCommonAncestorOfABinaryTree_scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobber/HouseRobber_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobber/HouseRobber_scala$$anonfun$rob$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobber/HouseRobber_scala$$anonfun$rob$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobber/HouseRobber_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobberIII/HouseRobberIII_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobberIII/HouseRobberIII_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobberIII/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ImplementTrie_PrefixTree/ImplementTrie_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ImplementTrie_PrefixTree/ImplementTrie_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ImplementTrie_PrefixTree/TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/InvertBinaryTree/InvertBinaryTree_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/InvertBinaryTree/InvertBinaryTree_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/InvertBinaryTree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree/IsBinarySearchTree_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree/IsBinarySearchTree_scala$$anonfun$isValidBST$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree/IsBinarySearchTree_scala$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree/IsBinarySearchTree_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsMirrorBinaryTree/IsMirrorBinaryTree_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsMirrorBinaryTree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/JumpGame/JumpGame_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/JumpGame/JumpGame_scala$$anonfun$canJump$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/JumpGame/JumpGame_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/KthLargestElementInAnArray/KthLargestElementInAnArray_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/KthLargestElementInAnArray/KthLargestElementInAnArray_scala$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/KthLargestElementInAnArray/KthLargestElementInAnArray_scala$$anonfun$findKthLargest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/KthLargestElementInAnArray/KthLargestElementInAnArray_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_scala$$anonfun$largestRectangleArea$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_scala$$anonfun$largestRectangleArea$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LargestRectangleInHistogram/LargestRectangleInHistogram_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycle/LinkedListCycle_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycle/LinkedListCycle_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycle/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycleII/LinkedListCycleII_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycleII/LinkedListCycleII_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycleII/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycleII/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestConsecutiveSequence/LongestConsecutiveSequence_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestConsecutiveSequence/LongestConsecutiveSequence_scala$$anonfun$longestConsecutive$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestConsecutiveSequence/LongestConsecutiveSequence_scala$$anonfun$longestConsecutive$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestConsecutiveSequence/LongestConsecutiveSequence_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_scala$$anonfun$lengthOfLIS$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_scala$$anonfun$lengthOfLIS$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_scala$$anonfun$lengthOfLIS$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence/LongestIncreasingSubsequence_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestValidParentheses/LongestValidParentheses_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestValidParentheses/LongestValidParentheses_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree_scala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LowestCommonAncestorOfABinaryTree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -121,83 +20,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence_300/describtion">
+        <entry file="file://$PROJECT_DIR$/src/main/java/array/MajorityElementII_229/Solution_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="90">
+              <caret line="7" column="119" selection-start-line="7" selection-start-column="119" selection-end-line="7" selection-end-column="119" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestIncreasingSubsequence_300/LongestIncreasingSubsequence_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+            <state relative-caret-position="690">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses_14/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LongestValidParentheses_14/LongestValidParentheses_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="41" />
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/LowestCommonAncestorOfABinaryTree_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LRUCache/describtion">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/MeiTuan/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/MeiTuan/t2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swordOffer/duplicateNum_03/Solution_java.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/LowestCommonAncestorOfABinaryTree_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="390">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule_207/CourseSchedule_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ReverseLinkedList/ReverseLinkedList_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1770">
+              <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tencent/BestTimeToBuyAndSellStockII_122/BestTimeToBuyAndSellStockII_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -221,6 +134,12 @@
       <find>add</find>
       <find>264</find>
       <find>priority</find>
+      <find>229</find>
+      <find>207</find>
+      <find>206</find>
+      <find>reverseList</find>
+      <find>309</find>
+      <find>236</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -259,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/main/java/swordOffer/UglyNumber_49/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/swordOffer/questions_32/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/swordOffer/questions_32/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/dp/UniquePathsII_63/describtion" />
         <option value="$PROJECT_DIR$/src/main/java/dp/UniquePathsII_63/Solution_java.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/ByteDance/Main.java" />
@@ -280,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/main/java/test/MeiTuan/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/MeiTuan/t2.java" />
         <option value="$PROJECT_DIR$/src/main/java/swordOffer/duplicateNum_03/Solution_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Main.java" />
       </list>
     </option>
   </component>
@@ -351,42 +270,46 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swordOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="twoPointers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="duplicateNum_03" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ByteDance" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="MeiTuan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -409,7 +332,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -430,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_java">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.ByteDance.Main" />
       <module name="leetcode" />
@@ -498,11 +421,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution_java" />
         <item itemvalue="Application.t2" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -891,12 +814,29 @@
       <workItem from="1584036110883" duration="2498000" />
       <workItem from="1584039910334" duration="171000" />
       <workItem from="1584201751114" duration="22000" />
-      <workItem from="1584543266208" duration="291000" />
+      <workItem from="1584543266208" duration="2269000" />
+      <workItem from="1585228195815" duration="25000" />
+      <workItem from="1586138928504" duration="663000" />
+      <workItem from="1586826853688" duration="112000" />
+      <workItem from="1586877406688" duration="1355000" />
+      <workItem from="1586903543599" duration="4400000" />
+      <workItem from="1586917172926" duration="42000" />
+      <workItem from="1587049165155" duration="3792000" />
+      <workItem from="1587169511025" duration="707000" />
+      <workItem from="1587253940922" duration="1303000" />
+      <workItem from="1587431419405" duration="2195000" />
+      <workItem from="1587485061403" duration="2080000" />
+      <workItem from="1588091053620" duration="3092000" />
+      <workItem from="1588385274175" duration="251000" />
+      <workItem from="1588520873384" duration="855000" />
+      <workItem from="1590139335793" duration="290000" />
+      <workItem from="1590143221664" duration="20000" />
+      <workItem from="1591118486340" duration="413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="633689000" />
+    <option name="totallyTimeSpent" value="657262000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -909,9 +849,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2571885" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3056443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -921,7 +860,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21566524" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40236053" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40236053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
@@ -976,18 +915,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/swordOffer/duplicateNum_03/Solution_java.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
@@ -998,83 +925,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/swordOffer/UglyNumber_49/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swordOffer/questions_32/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/UniquePathsII_63/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/ByteDance/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/UniquePathsII_63/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swordOffer/questions_32/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sql/HumanTrafficOfStadium_601/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/GroupAnagrams_49/GroupAnagrams_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/HouseRobber_198/describtion">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1295,10 +1145,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/LowestCommonAncestorOfABinaryTree_java.java">
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/concurrent/BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="301">
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/javafx-src.zip!/javafx/util/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1321,8 +1178,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/swordOffer/duplicateNum_03/Solution_java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="240">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/MajorityElementII_229/Solution_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="119" selection-start-line="7" selection-start-column="119" selection-end-line="7" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CourseSchedule_207/CourseSchedule_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/ReverseLinkedList/ReverseLinkedList_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="124" column="14" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tencent/BestTimeToBuyAndSellStockII_122/BestTimeToBuyAndSellStockII_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/LowestCommonAncestorOfABinaryTree_236/LowestCommonAncestorOfABinaryTree_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
