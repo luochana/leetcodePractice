@@ -1,7 +1,7 @@
 package BinarySearch.SingleElementInASortedArray_540;
 
 public class Solution_java {
-    
+
     public int singleNonDuplicate(int[] nums) {
         int l = 0, r = nums.length;
         while(l < r){
