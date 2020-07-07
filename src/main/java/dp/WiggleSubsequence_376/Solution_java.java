@@ -1,4 +1,4 @@
-package greed.WiggleSubsequence_376;
+package dp.WiggleSubsequence_376;
 
 public class Solution_java {
 

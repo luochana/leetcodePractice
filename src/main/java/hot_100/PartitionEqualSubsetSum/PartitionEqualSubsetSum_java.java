@@ -17,7 +17,7 @@ public class PartitionEqualSubsetSum_java {
         boolean[] res = new boolean[sum + 1];
         res[0] = true;
         for (int num : nums) {
-            for (int i = sum; i >= num; i--) {
+            for (int i = sum; i >= num; i--) {      //注意，一定要从后往前，因为一个值只能用一次。从前往后会产生重复
                 res[i] = res[i] || res[i - num];
             }
         }
