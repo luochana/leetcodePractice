@@ -1,1396 +1,430 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/describtion" afterDir="false" />
+    <list default="true" id="7a65aa01-4e66-4385-b3c2-5f3301eeafbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcodePractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interviw_hot/FractionToRecurringDecimal_166/Solution_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interviw_hot/FractionToRecurringDecimal_166/Solution_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/String/convertZ/convertZ_scala$$anonfun$convert$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/String/convertZ/convertZ_scala$$anonfun$convert$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/String/convertZ/convertZ_scala$$anonfun$convert$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/String/convertZ/convertZ_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/findMedianSortedArrays/findMedianSortedArrays_Scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/findMedianSortedArrays/findMedianSortedArrays_Scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/twoSum/twoSum_scala$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/twoSum/twoSum_scala$$anonfun$twoSum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/twoSum/twoSum_scala$$anonfun$twoSum$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/twoSum/twoSum_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/twoSum/twoSum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bitManipulation/Subsets/Subsets_scala$$anonfun$subsets$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bitManipulation/Subsets/Subsets_scala$$anonfun$subsets$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bitManipulation/Subsets/Subsets_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bitManipulation/Subsets/Subsets_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/greed/WiggleSubsequence_376/Solution_java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/greed/isMathPattern/isMatch_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hashTable/lengthOfLongestSubstring/lengthOfLongestSubstring_Scala$$anonfun$lengthOfLongestSubstring$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hashTable/lengthOfLongestSubstring/lengthOfLongestSubstring_Scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hashTable/lengthOfLongestSubstring/lengthOfLongestSubstring_Scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/heap/mergeKLists/mergeKLists_scala$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/heap/mergeKLists/mergeKLists_scala$$anonfun$mergeKLists$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/heap/mergeKLists/mergeKLists_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/heap/mergeKLists/mergeKLists_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BestTimeToBuyAndSellStock_121/BestTimeToBuyAndSellStock_scala$$anonfun$maxProfit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BestTimeToBuyAndSellStock_121/BestTimeToBuyAndSellStock_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_scala$$anonfun$maxProfit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BinaryTreeInorderTraversal_94/BinaryTreeInorderTraversal_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BinaryTreeLevelOrderTraversal_102/BinaryTreeLevelOrderTraversal_scala$$anonfun$levelOrder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BinaryTreeLevelOrderTraversal_102/BinaryTreeLevelOrderTraversal_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BinaryTreeMaximumPathSum_124/BinaryTreeMaximumPathSum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BurstBalloons_312/BurstBalloons_scala$$anonfun$maxCoins$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BurstBalloons_312/BurstBalloons_scala$$anonfun$maxCoins$2$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BurstBalloons_312/BurstBalloons_scala$$anonfun$maxCoins$2$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BurstBalloons_312/BurstBalloons_scala$$anonfun$maxCoins$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/BurstBalloons_312/BurstBalloons_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ClimbingStairs_70/ClimbingStairs_scala$$anonfun$climbStairs$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ClimbingStairs_70/ClimbingStairs_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CoinChange_322/CoinChange_scala$$anonfun$coinChange$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CoinChange_322/CoinChange_scala$$anonfun$coinChange$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CoinChange_322/CoinChange_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CombinationSum_39/CombinationSum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ConstructBinaryTreeFomreorderAndInorderTraversal_105/ConstructBinaryTreeFomreorderAndInorderTraversal_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ContainerWithMostWater_11/ContainerWithMostWater_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ConvertBSTtoGreaterTree_538/ConvertBSTtoGreaterTree_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ConvertBSTtoGreaterTree_538/ConvertBSTtoGreaterTree_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CountingBits_338/CountingBits_scala$$anonfun$countBits$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CountingBits_338/CountingBits_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CourseSchedule_207/CourseSchedule_scala$$anonfun$canFinish$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CourseSchedule_207/CourseSchedule_scala$$anonfun$canFinish$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CourseSchedule_207/CourseSchedule_scala$$anonfun$hot_100$CourseSchedule_207$CourseSchedule_scala$$dfs$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/CourseSchedule_207/CourseSchedule_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/DailyTemperatures_739/DailyTemperatures_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/DailyTemperatures_739/DailyTemperatures_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/DecodeString_394/DecodeString_scala$$anonfun$decodeString$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/DecodeString_394/DecodeString_scala$$anonfun$decodeString$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/DecodeString_394/DecodeString_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/DiameterofBinaryTree_543/DiameterofBinaryTree_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/DiameterofBinaryTree_543/DiameterofBinaryTree_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/EditDistance_72/EditDistance_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_scala$$anonfun$findAnagrams$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_scala$$anonfun$findAnagrams$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindAllAnagramsInAString_438/FindAllAnagramsInAString_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindAllNumbersDisappearedinanArray_448/FindAllNumbersDisappearedinanArray_scala$$anonfun$findDisappearedNumbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindAllNumbersDisappearedinanArray_448/FindAllNumbersDisappearedinanArray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindNumInSortedArr_34/FindNumInSortedArr_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindTheDuplicateNumber_287/FindTheDuplicateNumber_scala$$anonfun$findDuplicate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FindTheDuplicateNumber_287/FindTheDuplicateNumber_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/FlattenBinaryTreeToLinkedList_114/FlattenBinaryTreeToLinkedList_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/GenerateParentheses_22/GenerateParentheses_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/GroupAnagrams_49/GroupAnagrams_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HammingDistance_461/HammingDistance_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobberIII_337/HouseRobberIII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobber_198/HouseRobber_scala$$anonfun$rob$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobber_198/HouseRobber_scala$$anonfun$rob$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/HouseRobber_198/HouseRobber_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ImplementTrie_PrefixTree_208/ImplementTrie_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/InvertBinaryTree_226/InvertBinaryTree_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree_98/IsBinarySearchTree_scala$$anonfun$isValidBST$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree_98/IsBinarySearchTree_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsBinarySearchTree_98/IsBinarySearchTree_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/IsMirrorBinaryTree_101/IsMirrorBinaryTree_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/JumpGame_55/JumpGame_scala$$anonfun$canJump$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/JumpGame_55/JumpGame_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/KthLargestElementInAnArray_215/KthLargestElementInAnArray_scala$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/KthLargestElementInAnArray_215/KthLargestElementInAnArray_scala$$anonfun$findKthLargest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/KthLargestElementInAnArray_215/KthLargestElementInAnArray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LRUCache/LRUCache_sacla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LargestRectangleInHistogram_84/LargestRectangleInHistogram_scala$$anonfun$largestRectangleArea$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LargestRectangleInHistogram_84/LargestRectangleInHistogram_scala$$anonfun$largestRectangleArea$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LargestRectangleInHistogram_84/LargestRectangleInHistogram_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LetterCombinationsOfAPhoneNumber_17/LetterCombinationsOfAPhoneNumber_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycleII_142/LinkedListCycleII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LinkedListCycle_160/LinkedListCycle_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestConsecutiveSequence_128/LongestConsecutiveSequence_scala$$anonfun$longestConsecutive$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestConsecutiveSequence_128/LongestConsecutiveSequence_scala$$anonfun$longestConsecutive$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestConsecutiveSequence_128/LongestConsecutiveSequence_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence_300/LongestIncreasingSubsequence_scala$$anonfun$lengthOfLIS$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence_300/LongestIncreasingSubsequence_scala$$anonfun$lengthOfLIS$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence_300/LongestIncreasingSubsequence_scala$$anonfun$lengthOfLIS$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestIncreasingSubsequence_300/LongestIncreasingSubsequence_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LongestValidParentheses_14/LongestValidParentheses_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/LowestCommonAncestorOfABinaryTree_236/LowestCommonAncestorOfABinaryTree_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MajorityElement/MajorityElement_scala$$anonfun$majorityElement$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MajorityElement/MajorityElement_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalRectangle/MaximalRectangle_scala$$anonfun$maximalRectangle$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalRectangle/MaximalRectangle_scala$$anonfun$maximalRectangle$1$$anonfun$apply$mcVI$sp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalRectangle/MaximalRectangle_scala$$anonfun$maximalRectangle$1$$anonfun$apply$mcVI$sp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalRectangle/MaximalRectangle_scala$$anonfun$maximalRectangle$1$$anonfun$apply$mcVI$sp$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalRectangle/MaximalRectangle_scala$$anonfun$maximalRectangle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalRectangle/MaximalRectangle_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalSquare/MaximalSquare_scala$$anonfun$maximalSquare$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalSquare/MaximalSquare_scala$$anonfun$maximalSquare$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximalSquare/MaximalSquare_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala$$anonfun$maxProduct$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximumProductSubarray/MaximumProductSubarray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximumSubarray/MaximumSubarray_scala$$anonfun$maxSubArray$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MaximumSubarray/MaximumSubarray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MergeTwoBinaryTrees/MergeTwoBinaryTrees_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MergeTwoSortedLists/MergeTwoSortedLists_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MinimumPathSum/MinimumPathSum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MinimumWindowSubstring/MinimumWindowSubstring_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MoveZeroes/MoveZeroes_scala$$anonfun$moveZeroes$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MoveZeroes/MoveZeroes_scala$$anonfun$moveZeroes$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/MoveZeroes/MoveZeroes_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/NextPermutation/NextPermutation_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/NumberOfIslands/NumberOfIslands_scala$$anonfun$numIslands$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/NumberOfIslands/NumberOfIslands_scala$$anonfun$numIslands$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/NumberOfIslands/NumberOfIslands_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PalindromeLinkedList/PalindromeLinkedList_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PalindromicSubstrings/PalindromicSubstrings_scala$$anonfun$countSubstrings$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PalindromicSubstrings/PalindromicSubstrings_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala$$anonfun$canPartition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala$$anonfun$canPartition$2$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala$$anonfun$canPartition$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PascalsTriangle_118/PascalsTriangle_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PathSumIII/PathSumIII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PerfectSquares/PerfectSquares_scala$$anonfun$numSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/PerfectSquares/PerfectSquares_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/Permutations/Permutations_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf_scala$$anonfun$productExceptSelf$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf_scala$$anonfun$productExceptSelf$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_scala$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_scala$$anonfun$reconstructQueue$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/QueueReconstructionByHeight/QueueReconstructionByHeight_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/RemoveInvalidParentheses/RemoveInvalidParentheses_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/RotateImage/RotateImage_scala$$anonfun$rotate$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/RotateImage/RotateImage_scala$$anonfun$rotate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/RotateImage/RotateImage_scala$$anonfun$rotate$2$$anonfun$apply$mcVI$sp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/RotateImage/RotateImage_scala$$anonfun$rotate$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/RotateImage/RotateImage_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SearchA2DMatrixII/SearchA2DMatrixII_scala$$anonfun$searchMatrix$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SearchA2DMatrixII/SearchA2DMatrixII_scala$$anonfun$searchMatrix$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SearchA2DMatrixII/SearchA2DMatrixII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SearchInRotatedSortedArray/SearchInRotatedSortedArray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SingleNumber/SingleNumber_scala$$anonfun$singleNumber$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SingleNumber/SingleNumber_scala$$anonfun$singleNumber$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SingleNumber/SingleNumber_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SlidingWindowMaximum/SlidingWindowMaximum_scala$$anonfun$maxSlidingWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SlidingWindowMaximum/SlidingWindowMaximum_scala$$anonfun$maxSlidingWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SlidingWindowMaximum/SlidingWindowMaximum_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SlidingWindowMaximum/SlidingWindowMaximum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SortColors/SortColors_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SortList/SortList_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SubarraySumEqualsK/SubarraySumEqualsK_scala$$anonfun$subarraySum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SubarraySumEqualsK/SubarraySumEqualsK_scala$$anonfun$subarraySum$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/SubarraySumEqualsK/SubarraySumEqualsK_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TargetSum/TargetSum_scala$$anonfun$findTargetSumWays$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TargetSum/TargetSum_scala$$anonfun$findTargetSumWays$2$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TargetSum/TargetSum_scala$$anonfun$findTargetSumWays$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TargetSum/TargetSum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TaskScheduler/TaskScheduler_scala$$anonfun$leastInterval$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TaskScheduler/TaskScheduler_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TaskScheduler/TaskScheduler_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/ThreeSum_15/ThreeSum_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/TopKFrequentElements/TopKFrequentElements_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/UniqueBinarySearchTrees/UniqueBinarySearchTrees_scala$$anonfun$numTrees$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/UniqueBinarySearchTrees/UniqueBinarySearchTrees_scala$$anonfun$numTrees$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/UniqueBinarySearchTrees/UniqueBinarySearchTrees_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/UniquePaths/UniquePaths_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/WordBreak/WordBreak_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hot_100/WordBreak/WordBreak_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/WordBreak/WordBreak_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/WordSearch/WordSearch_scala$$anonfun$dfs$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/WordSearch/WordSearch_scala$$anonfun$exist$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/WordSearch/WordSearch_scala$$anonfun$exist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hot_100/WordSearch/WordSearch_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/ConvertSortedArrayToBST_108/ConvertSortedArrayToBST_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/ExcelSheetColumnNumber_171/ExcelSheetColumnNumber_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/FourSumII_454/FourumII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/GameOfLife_289/GameOfLife_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviw_hot/PalindromePartitioning_131/PalindromePartitioning_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/addTwoNumbers/ListNode_s$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/addTwoNumbers/ListNode_s.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/addTwoNumbers/addTwoNumbersScala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/MergeIntervals/MergeIntervals_scala$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/MergeIntervals/MergeIntervals_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/MergeIntervals/MergeIntervals_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack/TrappingRainWater/TrappingRainWater_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_scala$$anonfun$isValid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack/validParentheses/validParentheses_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/BestTimeToBuyAndSellStockII_122/BestTimeToBuyAndSellStockII_scala$$anonfun$maxProfit$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/BestTimeToBuyAndSellStockII_122/BestTimeToBuyAndSellStockII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/ContainsDuplicate_217/ContainsDuplicate_scala$$anonfun$containsDuplicate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/ContainsDuplicate_217/ContainsDuplicate_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/DeleteNodeInALinkedList_237/DeleteNodeInALinkedList_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/GrayCode_89/GrayCode_scala$$anonfun$grayCode$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/GrayCode_89/GrayCode_scala$$anonfun$grayCode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/GrayCode_89/GrayCode_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/KthSmallestElementInABST_230/KthSmallestElementInABST_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/LongestCommonPrefix_14/LongestCommonPrefix_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/LowestCommonAncestorOfBST_235/LowestCommonAncestorOfBST_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/MergeSortedArray_88/MergeSortedArray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/MultiplyStrings_43/MultiplyStrings_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/NimGame_292/NimGame_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/PalindromeNumber_9/PalindromeNumber_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/PowerOfTwo_231/PowerOfTwo_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/RemoveDuplicatesFromSortedArray_26/RemoveDuplicatesFromSortedArray_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/ReverseInteger_8/ReverseInteger_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/ReverseString_344/ReverseString_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/ReverseWordsInAStringIII_557/ReverseWordsInAStringIII_scala$$anonfun$reverseWords$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/ReverseWordsInAStringIII_557/ReverseWordsInAStringIII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/RotateList_61/RotateList_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/SpiralMatrixII_59/SpiralMatrixII_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/SpiralMatrix_54/SpiralMatrix_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/StringToInteger_8/StringToInteger_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tencent/ThreeSumClosest_16/ThreeSumClosest_scala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twoPointers/longestPalindrome/longestPalindrome_scala$$anonfun$longestPalindrome$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twoPointers/longestPalindrome/longestPalindrome_scala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twoPointers/longestPalindrome/longestPalindrome_scala.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/randomTest/LongestRepeatingCharacterReplacement_424/Solution_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/Solution_java.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/randomTest/LongestRepeatingCharacterReplacement_424/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/list/AddTwoNumbersII_445/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/math/ValidPerfectSquare_367/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/math/MinimumMovesToEqualArrayElementsII_462/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2070">
-              <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-              <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/PacificAtlanticWaterFlow_417/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/FriendCircles_547/describtion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Package Object" />
-        <option value="FxmlFile" />
-        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>removeEldestEntry</find>
-      <find>put</find>
-      <find>add</find>
-      <find>264</find>
-      <find>priority</find>
-      <find>229</find>
-      <find>207</find>
-      <find>206</find>
-      <find>reverseList</find>
-      <find>236</find>
-      <find>279</find>
-      <find>PerfectSquares</find>
-      <find>permutations</find>
-      <find>WiggleSu</find>
-      <find>PartitionEqualSubsetSum</find>
-      <find>CoinChange</find>
-      <find>WordBreak</find>
-      <find>322</find>
-      <find>309</find>
-      <find>188</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/main/java</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/PermutationsII_47/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/PermutationsII_47/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/SudokuSolver_37/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/Backtracking/SudokuSolver_37/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/ArithmeticSlices_413/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/ArithmeticSlices_413/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/MaximumLengthOfPairChain_646/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/MaximumLengthOfPairChain_646/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/WiggleSubsequence_376/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/Coin_Change_2_518/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/Coin_Change_2_518/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/WordBreak/WordBreak_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/OnesAndZeroes_474/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/OnesAndZeroes_474/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/CoinChange_322/CoinChange_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/CombinationSumIV_377/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/CombinationSumIV_377/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockWithTransactionFee_714/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockWithTransactionFee_714/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_123/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_123/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/two_Keys_Keyboard_650/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/two_Keys_Keyboard_650/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/CountPrimes_204/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/math/CountPrimes_204/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/Base_7_504/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/math/Base_7_504/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/Convert_A_Number_To_Hexadecimal_405/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/Convert_A_Number_To_Hexadecimal_405/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/array/FirstMissingPositive_41/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/array/FirstMissingPositive_41/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/ExcelSheetColumnTitle_168/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/math/ExcelSheetColumnTitle_168/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/FactorialTrailingZeroes_172/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/math/FactorialTrailingZeroes_172/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/AddBinary_67/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/math/AddBinary_67/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/MinimumMovesToEqualArrayElementsII_462/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/math/MinimumMovesToEqualArrayElementsII_462/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/ValidPerfectSquare_367/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/math/ValidPerfectSquare_367/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/list/AddTwoNumbersII_445/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/list/AddTwoNumbersII_445/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/list/SplitLinkedListInParts_725/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/list/SplitLinkedListInParts_725/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/randomTest/LongestRepeatingCharacterReplacement_424/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/randomTest/LongestRepeatingCharacterReplacement_424/Solution_java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/describtion" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/Solution_java.java" />
-      </list>
-    </option>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Documents/software/maven" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/software/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="490" />
-    <option name="y" value="85" />
-    <option name="width" value="1150" />
-    <option name="height" value="930" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="BestTimeToBuyAndSellStockIII_188" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1nIF1lurV6rRltARtuZ6DDZwvrB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/interviw_hot/FourSumII_454" />
-      <recent name="$PROJECT_DIR$/src/main/java/sort/MergeIntervals" />
-      <recent name="$PROJECT_DIR$/src/main/java/heap/mergeKLists" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ByteDance.Main" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.ByteDance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.MeiTuan.Main" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.MeiTuan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="$USER_HOME$/Documents/software/maven/conf/settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="leetcode []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="$USER_HOME$/Documents/software/maven" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="$USER_HOME$/Documents/software/maven/conf/settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
-    <configuration name="Solution_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swordOffer.duplicateNum_03.Solution_java" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swordOffer.duplicateNum_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="t2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.MeiTuan.t2" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.MeiTuan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution_java" />
-        <item itemvalue="Application.t2" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97b41977-f18e-44fb-b8d5-5d7fd6627e7a" name="Default Changelist" comment="" />
-      <created>1562680966114</created>
+      <changelist id="7a65aa01-4e66-4385-b3c2-5f3301eeafbe" name="Default Changelist" comment="" />
+      <created>1611069487597</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562680966114</updated>
-      <workItem from="1562680968070" duration="1093000" />
-      <workItem from="1562685970344" duration="109000" />
-      <workItem from="1562941587457" duration="7598000" />
-      <workItem from="1563011253857" duration="216000" />
-      <workItem from="1563367647539" duration="1922000" />
-      <workItem from="1563370066731" duration="624000" />
-      <workItem from="1563446508077" duration="5157000" />
-      <workItem from="1563462552679" duration="45000" />
-      <workItem from="1563879073805" duration="1394000" />
-      <workItem from="1563894387942" duration="4300000" />
-      <workItem from="1563966947126" duration="768000" />
-      <workItem from="1564029389326" duration="2684000" />
-      <workItem from="1564387580477" duration="2141000" />
-      <workItem from="1564392633732" duration="161000" />
-      <workItem from="1564452158985" duration="5370000" />
-      <workItem from="1564462121128" duration="636000" />
-      <workItem from="1564958990166" duration="4020000" />
-      <workItem from="1564999669105" duration="2436000" />
-      <workItem from="1565111078800" duration="1722000" />
-      <workItem from="1565157345840" duration="4745000" />
-      <workItem from="1565085100814" duration="876000" />
-      <workItem from="1565085999787" duration="2718000" />
-      <workItem from="1565109627297" duration="1716000" />
-      <workItem from="1565111400891" duration="1898000" />
-      <workItem from="1565113383696" duration="900000" />
-      <workItem from="1565114434034" duration="134000" />
-      <workItem from="1565369175256" duration="607000" />
-      <workItem from="1565416448595" duration="3954000" />
-      <workItem from="1565446813666" duration="1949000" />
-      <workItem from="1565541483092" duration="2998000" />
-      <workItem from="1565595607590" duration="85000" />
-      <workItem from="1565674799072" duration="1055000" />
-      <workItem from="1565763835868" duration="3174000" />
-      <workItem from="1565847862283" duration="1571000" />
-      <workItem from="1565855157439" duration="4270000" />
-      <workItem from="1565882499138" duration="1212000" />
-      <workItem from="1565933823347" duration="2568000" />
-      <workItem from="1565947476777" duration="18000" />
-      <workItem from="1566030184587" duration="3629000" />
-      <workItem from="1566054927761" duration="294000" />
-      <workItem from="1566145861388" duration="3244000" />
-      <workItem from="1566187353791" duration="528000" />
-      <workItem from="1566199748891" duration="48000" />
-      <workItem from="1566199860137" duration="600000" />
-      <workItem from="1566200828953" duration="599000" />
-      <workItem from="1566222775234" duration="1598000" />
-      <workItem from="1566235835667" duration="46000" />
-      <workItem from="1566319547867" duration="3355000" />
-      <workItem from="1566404400177" duration="1711000" />
-      <workItem from="1566583035654" duration="531000" />
-      <workItem from="1566631318202" duration="1793000" />
-      <workItem from="1566724814122" duration="1264000" />
-      <workItem from="1566759019842" duration="1023000" />
-      <workItem from="1566832582602" duration="55000" />
-      <workItem from="1567065836010" duration="2815000" />
-      <workItem from="1567136322427" duration="2478000" />
-      <workItem from="1567139660008" duration="104000" />
-      <workItem from="1567258915567" duration="2155000" />
-      <workItem from="1567275493308" duration="599000" />
-      <workItem from="1567277924329" duration="499000" />
-      <workItem from="1567278445328" duration="71000" />
-      <workItem from="1567345915064" duration="3335000" />
-      <workItem from="1567397958976" duration="1439000" />
-      <workItem from="1567415583012" duration="8000" />
-      <workItem from="1567429395078" duration="2406000" />
-      <workItem from="1567493065954" duration="602000" />
-      <workItem from="1567499529716" duration="2570000" />
-      <workItem from="1567506952171" duration="4387000" />
-      <workItem from="1567517915586" duration="599000" />
-      <workItem from="1567520380843" duration="7000" />
-      <workItem from="1567607555209" duration="1619000" />
-      <workItem from="1567616495082" duration="72000" />
-      <workItem from="1567690836545" duration="5771000" />
-      <workItem from="1567760805254" duration="4169000" />
-      <workItem from="1567831425513" duration="4671000" />
-      <workItem from="1567875790817" duration="12000" />
-      <workItem from="1567915535610" duration="4619000" />
-      <workItem from="1568010738102" duration="2613000" />
-      <workItem from="1568024218301" duration="28000" />
-      <workItem from="1568024274093" duration="30000" />
-      <workItem from="1568111935874" duration="8896000" />
-      <workItem from="1568137099758" duration="74000" />
-      <workItem from="1568197996143" duration="1462000" />
-      <workItem from="1568203892693" duration="702000" />
-      <workItem from="1568205173486" duration="1059000" />
-      <workItem from="1568260862472" duration="1417000" />
-      <workItem from="1568355472055" duration="2279000" />
-      <workItem from="1568534674547" duration="2805000" />
-      <workItem from="1568609079365" duration="3432000" />
-      <workItem from="1568635608970" duration="15000" />
-      <workItem from="1568652692210" duration="2424000" />
-      <workItem from="1568736030168" duration="1996000" />
-      <workItem from="1568774880991" duration="5193000" />
-      <workItem from="1568784414118" duration="108000" />
-      <workItem from="1568788106204" duration="1195000" />
-      <workItem from="1568858314629" duration="2889000" />
-      <workItem from="1568951524647" duration="2188000" />
-      <workItem from="1568971028045" duration="700000" />
-      <workItem from="1569022174398" duration="1515000" />
-      <workItem from="1569062094304" duration="175000" />
-      <workItem from="1569123388084" duration="2324000" />
-      <workItem from="1569136981378" duration="75000" />
-      <workItem from="1569142219043" duration="63000" />
-      <workItem from="1569148907797" duration="93000" />
-      <workItem from="1569152394628" duration="1261000" />
-      <workItem from="1569211770756" duration="5375000" />
-      <workItem from="1569297324019" duration="597000" />
-      <workItem from="1569312951915" duration="4510000" />
-      <workItem from="1569320267431" duration="891000" />
-      <workItem from="1569321799813" duration="739000" />
-      <workItem from="1569386070699" duration="2049000" />
-      <workItem from="1569388264022" duration="615000" />
-      <workItem from="1569402208330" duration="2975000" />
-      <workItem from="1569466125849" duration="3137000" />
-      <workItem from="1569575285871" duration="2485000" />
-      <workItem from="1569590270298" duration="98000" />
-      <workItem from="1569654320725" duration="43000" />
-      <workItem from="1569654390938" duration="8000" />
-      <workItem from="1569654462998" duration="601000" />
-      <workItem from="1569679006147" duration="705000" />
-      <workItem from="1569679729844" duration="468000" />
-      <workItem from="1569680216666" duration="1370000" />
-      <workItem from="1569681636002" duration="755000" />
-      <workItem from="1569729023024" duration="1844000" />
-      <workItem from="1569747920616" duration="595000" />
-      <workItem from="1569757397676" duration="620000" />
-      <workItem from="1569817537016" duration="1640000" />
-      <workItem from="1569849389135" duration="33000" />
-      <workItem from="1569902702548" duration="5544000" />
-      <workItem from="1569985459080" duration="1609000" />
-      <workItem from="1569990187510" duration="260000" />
-      <workItem from="1570005558526" duration="603000" />
-      <workItem from="1570042560104" duration="3355000" />
-      <workItem from="1570378613766" duration="2690000" />
-      <workItem from="1570414511022" duration="1416000" />
-      <workItem from="1570466367554" duration="1253000" />
-      <workItem from="1570507098334" duration="1198000" />
-      <workItem from="1570522628449" duration="2608000" />
-      <workItem from="1570585170627" duration="3076000" />
-      <workItem from="1570639158856" duration="2033000" />
-      <workItem from="1570670718543" duration="4828000" />
-      <workItem from="1570711133857" duration="24000" />
-      <workItem from="1570767045592" duration="814000" />
-      <workItem from="1570768589255" duration="284000" />
-      <workItem from="1570894218338" duration="3814000" />
-      <workItem from="1570933672794" duration="596000" />
-      <workItem from="1570951930338" duration="20000" />
-      <workItem from="1570954705968" duration="1533000" />
-      <workItem from="1571058740140" duration="4073000" />
-      <workItem from="1571100488088" duration="25000" />
-      <workItem from="1571152449531" duration="1151000" />
-      <workItem from="1571217573509" duration="2252000" />
-      <workItem from="1571277208812" duration="3353000" />
-      <workItem from="1571302057599" duration="1442000" />
-      <workItem from="1571403620837" duration="1443000" />
-      <workItem from="1571552564088" duration="1015000" />
-      <workItem from="1571554481448" duration="778000" />
-      <workItem from="1571571910405" duration="10000" />
-      <workItem from="1571648186505" duration="3914000" />
-      <workItem from="1571716719834" duration="274000" />
-      <workItem from="1571726625398" duration="600000" />
-      <workItem from="1571732487847" duration="605000" />
-      <workItem from="1571805887757" duration="2852000" />
-      <workItem from="1571809594899" duration="18000" />
-      <workItem from="1571903981929" duration="829000" />
-      <workItem from="1571921033833" duration="599000" />
-      <workItem from="1571975489458" duration="1811000" />
-      <workItem from="1572068539531" duration="1914000" />
-      <workItem from="1572145416163" duration="1716000" />
-      <workItem from="1572235463067" duration="5417000" />
-      <workItem from="1572252374152" duration="20000" />
-      <workItem from="1572321205624" duration="2415000" />
-      <workItem from="1572323641512" duration="2391000" />
-      <workItem from="1572331510572" duration="698000" />
-      <workItem from="1572406063925" duration="739000" />
-      <workItem from="1572413521240" duration="751000" />
-      <workItem from="1572426057249" duration="842000" />
-      <workItem from="1572443354686" duration="13000" />
-      <workItem from="1572489061781" duration="1281000" />
-      <workItem from="1572530472795" duration="51000" />
-      <workItem from="1572581533735" duration="982000" />
-      <workItem from="1572612659736" duration="22000" />
-      <workItem from="1572665742838" duration="5072000" />
-      <workItem from="1572671085648" duration="115000" />
-      <workItem from="1572754219896" duration="850000" />
-      <workItem from="1572832614231" duration="17000" />
-      <workItem from="1572854376189" duration="804000" />
-      <workItem from="1572887442268" duration="373000" />
-      <workItem from="1572925661573" duration="1262000" />
-      <workItem from="1573010275268" duration="2856000" />
-      <workItem from="1573041118234" duration="9000" />
-      <workItem from="1573089110972" duration="1729000" />
-      <workItem from="1573130766449" duration="529000" />
-      <workItem from="1573275785896" duration="973000" />
-      <workItem from="1573324076547" duration="46000" />
-      <workItem from="1573357636275" duration="1655000" />
-      <workItem from="1573371788630" duration="23000" />
-      <workItem from="1573470986194" duration="4516000" />
-      <workItem from="1573478711508" duration="1146000" />
-      <workItem from="1573530883138" duration="424000" />
-      <workItem from="1573541268685" duration="15000" />
-      <workItem from="1573620761825" duration="1357000" />
-      <workItem from="1573627644126" duration="363000" />
-      <workItem from="1573697992135" duration="1407000" />
-      <workItem from="1573740790103" duration="1200000" />
-      <workItem from="1573789393409" duration="961000" />
-      <workItem from="1573817066650" duration="53000" />
-      <workItem from="1573880045967" duration="716000" />
-      <workItem from="1573881833939" duration="1602000" />
-      <workItem from="1573963203956" duration="1318000" />
-      <workItem from="1573981195635" duration="46000" />
-      <workItem from="1574077794634" duration="1615000" />
-      <workItem from="1574100175099" duration="1486000" />
-      <workItem from="1574179579166" duration="1943000" />
-      <workItem from="1574218330369" duration="671000" />
-      <workItem from="1574273168461" duration="1926000" />
-      <workItem from="1574306717637" duration="1410000" />
-      <workItem from="1574394770201" duration="3884000" />
-      <workItem from="1574526041120" duration="1901000" />
-      <workItem from="1574567063361" duration="1776000" />
-      <workItem from="1574599694130" duration="5000" />
-      <workItem from="1574686215300" duration="1411000" />
-      <workItem from="1574735761174" duration="1209000" />
-      <workItem from="1574825430960" duration="2412000" />
-      <workItem from="1574839801239" duration="2530000" />
-      <workItem from="1574873077283" duration="55000" />
-      <workItem from="1574912153394" duration="3430000" />
-      <workItem from="1574948828064" duration="596000" />
-      <workItem from="1574996480665" duration="2214000" />
-      <workItem from="1575002920678" duration="12000" />
-      <workItem from="1575044165613" duration="885000" />
-      <workItem from="1575049980723" duration="2676000" />
-      <workItem from="1575113443366" duration="5721000" />
-      <workItem from="1575131129217" duration="2294000" />
-      <workItem from="1575173552500" duration="4846000" />
-      <workItem from="1575225108863" duration="1185000" />
-      <workItem from="1575226321454" duration="39000" />
-      <workItem from="1575247971346" duration="9715000" />
-      <workItem from="1575286212112" duration="8532000" />
-      <workItem from="1575356680698" duration="1630000" />
-      <workItem from="1575458664305" duration="13301000" />
-      <workItem from="1575516797220" duration="12929000" />
-      <workItem from="1575594011066" duration="594000" />
-      <workItem from="1575598144631" duration="3704000" />
-      <workItem from="1575629628045" duration="5881000" />
-      <workItem from="1575693367726" duration="6295000" />
-      <workItem from="1575811716058" duration="25000" />
-      <workItem from="1575819580757" duration="4422000" />
-      <workItem from="1575870921476" duration="38000" />
-      <workItem from="1575971773200" duration="244000" />
-      <workItem from="1576034839785" duration="1901000" />
-      <workItem from="1576081969583" duration="1644000" />
-      <workItem from="1576120893732" duration="4611000" />
-      <workItem from="1576205906551" duration="1819000" />
-      <workItem from="1576244552960" duration="5023000" />
-      <workItem from="1576258080865" duration="1238000" />
-      <workItem from="1576292144184" duration="802000" />
-      <workItem from="1576304074729" duration="817000" />
-      <workItem from="1576417807587" duration="2745000" />
-      <workItem from="1576479916669" duration="1854000" />
-      <workItem from="1576501860766" duration="399000" />
-      <workItem from="1576507555522" duration="6045000" />
-      <workItem from="1576549325339" duration="2515000" />
-      <workItem from="1576608071004" duration="123000" />
-      <workItem from="1576641198152" duration="595000" />
-      <workItem from="1576833427382" duration="40000" />
-      <workItem from="1576901551688" duration="599000" />
-      <workItem from="1576944691233" duration="597000" />
-      <workItem from="1576992511790" duration="1105000" />
-      <workItem from="1577073136010" duration="2291000" />
-      <workItem from="1577157909251" duration="1925000" />
-      <workItem from="1577209767352" duration="1082000" />
-      <workItem from="1577245147875" duration="1017000" />
-      <workItem from="1577327621866" duration="26000" />
-      <workItem from="1577332901770" duration="527000" />
-      <workItem from="1577373998660" duration="1124000" />
-      <workItem from="1577456330091" duration="655000" />
-      <workItem from="1577506337613" duration="2104000" />
-      <workItem from="1577587406334" duration="596000" />
-      <workItem from="1577619047151" duration="602000" />
-      <workItem from="1577679031984" duration="1628000" />
-      <workItem from="1577758951365" duration="595000" />
-      <workItem from="1577777576067" duration="2243000" />
-      <workItem from="1577851715380" duration="3612000" />
-      <workItem from="1577937668260" duration="599000" />
-      <workItem from="1577986972214" duration="1932000" />
-      <workItem from="1578075413239" duration="186000" />
-      <workItem from="1578115215181" duration="595000" />
-      <workItem from="1578245502330" duration="654000" />
-      <workItem from="1578283218899" duration="893000" />
-      <workItem from="1578372325428" duration="599000" />
-      <workItem from="1578408325684" duration="946000" />
-      <workItem from="1578536672615" duration="786000" />
-      <workItem from="1578627893902" duration="1198000" />
-      <workItem from="1578662825884" duration="3508000" />
-      <workItem from="1578714910896" duration="728000" />
-      <workItem from="1578848662680" duration="774000" />
-      <workItem from="1578927540148" duration="1558000" />
-      <workItem from="1578931335636" duration="1757000" />
-      <workItem from="1578998451788" duration="342000" />
-      <workItem from="1579080576172" duration="1276000" />
-      <workItem from="1579146216409" duration="585000" />
-      <workItem from="1579190809348" duration="2648000" />
-      <workItem from="1579277991465" duration="963000" />
-      <workItem from="1579455326461" duration="940000" />
-      <workItem from="1579498226120" duration="1760000" />
-      <workItem from="1579508323788" duration="21000" />
-      <workItem from="1579545296595" duration="118000" />
-      <workItem from="1579608976475" duration="2060000" />
-      <workItem from="1579665700120" duration="807000" />
-      <workItem from="1579693356049" duration="300000" />
-      <workItem from="1579706483516" duration="2256000" />
-      <workItem from="1579753451779" duration="604000" />
-      <workItem from="1579794117964" duration="888000" />
-      <workItem from="1579836170061" duration="758000" />
-      <workItem from="1579950304426" duration="1581000" />
-      <workItem from="1580012218587" duration="1401000" />
-      <workItem from="1580095762626" duration="20000" />
-      <workItem from="1580101966100" duration="226000" />
-      <workItem from="1580150100612" duration="712000" />
-      <workItem from="1580186050791" duration="51000" />
-      <workItem from="1580190426856" duration="232000" />
-      <workItem from="1580191083483" duration="18000" />
-      <workItem from="1580191484566" duration="218000" />
-      <workItem from="1580275505879" duration="2779000" />
-      <workItem from="1580309665395" duration="205000" />
-      <workItem from="1580315831036" duration="775000" />
-      <workItem from="1580359893747" duration="1866000" />
-      <workItem from="1580445732065" duration="598000" />
-      <workItem from="1580476407722" duration="250000" />
-      <workItem from="1580498025766" duration="22000" />
-      <workItem from="1580533603677" duration="1615000" />
-      <workItem from="1580616532843" duration="671000" />
-      <workItem from="1580707834633" duration="1240000" />
-      <workItem from="1580791889855" duration="1198000" />
-      <workItem from="1580807380177" duration="166000" />
-      <workItem from="1580813410795" duration="25000" />
-      <workItem from="1580828936139" duration="61000" />
-      <workItem from="1580968987404" duration="812000" />
-      <workItem from="1581137362918" duration="729000" />
-      <workItem from="1581225564253" duration="702000" />
-      <workItem from="1581309415875" duration="596000" />
-      <workItem from="1581321854018" duration="2380000" />
-      <workItem from="1581334905863" duration="1322000" />
-      <workItem from="1581446999244" duration="22000" />
-      <workItem from="1581447125931" duration="1182000" />
-      <workItem from="1581492115098" duration="2237000" />
-      <workItem from="1581582560695" duration="1213000" />
-      <workItem from="1581594851927" duration="7937000" />
-      <workItem from="1581655705408" duration="1194000" />
-      <workItem from="1581683278313" duration="14000" />
-      <workItem from="1581685131485" duration="11202000" />
-      <workItem from="1581754242209" duration="596000" />
-      <workItem from="1581772196910" duration="7863000" />
-      <workItem from="1581961096884" duration="925000" />
-      <workItem from="1582000238289" duration="599000" />
-      <workItem from="1582112610605" duration="743000" />
-      <workItem from="1582180285924" duration="590000" />
-      <workItem from="1582188389904" duration="661000" />
-      <workItem from="1582215399090" duration="9000" />
-      <workItem from="1582481559116" duration="2387000" />
-      <workItem from="1582518497933" duration="596000" />
-      <workItem from="1582591630178" duration="28000" />
-      <workItem from="1582887215981" duration="17000" />
-      <workItem from="1582887419136" duration="5399000" />
-      <workItem from="1583247686894" duration="1482000" />
-      <workItem from="1583391154557" duration="608000" />
-      <workItem from="1583431264522" duration="237000" />
-      <workItem from="1583499496719" duration="17000" />
-      <workItem from="1583938959605" duration="1881000" />
-      <workItem from="1583948891369" duration="1250000" />
-      <workItem from="1584018101067" duration="15725000" />
-      <workItem from="1584036110883" duration="2498000" />
-      <workItem from="1584039910334" duration="171000" />
-      <workItem from="1584201751114" duration="22000" />
-      <workItem from="1584543266208" duration="2269000" />
-      <workItem from="1585228195815" duration="25000" />
-      <workItem from="1586138928504" duration="663000" />
-      <workItem from="1586826853688" duration="112000" />
-      <workItem from="1586877406688" duration="1355000" />
-      <workItem from="1586903543599" duration="4400000" />
-      <workItem from="1586917172926" duration="42000" />
-      <workItem from="1587049165155" duration="3792000" />
-      <workItem from="1587169511025" duration="707000" />
-      <workItem from="1587253940922" duration="1303000" />
-      <workItem from="1587431419405" duration="2195000" />
-      <workItem from="1587485061403" duration="2080000" />
-      <workItem from="1588091053620" duration="3092000" />
-      <workItem from="1588385274175" duration="251000" />
-      <workItem from="1588520873384" duration="855000" />
-      <workItem from="1590139335793" duration="290000" />
-      <workItem from="1590143221664" duration="20000" />
-      <workItem from="1591118486340" duration="1297000" />
-      <workItem from="1591283525621" duration="3600000" />
-      <workItem from="1591374248936" duration="598000" />
-      <workItem from="1591450572496" duration="1559000" />
-      <workItem from="1591559901509" duration="1351000" />
-      <workItem from="1591640251231" duration="913000" />
-      <workItem from="1591701024283" duration="598000" />
-      <workItem from="1591790344441" duration="7317000" />
-      <workItem from="1592032974935" duration="41000" />
-      <workItem from="1592062812968" duration="625000" />
-      <workItem from="1592102686694" duration="3386000" />
-      <workItem from="1592118747630" duration="3518000" />
-      <workItem from="1592583696252" duration="598000" />
-      <workItem from="1593795914489" duration="593000" />
-      <workItem from="1593826787808" duration="1425000" />
-      <workItem from="1594047194807" duration="826000" />
-      <workItem from="1594133974233" duration="4978000" />
-      <workItem from="1594219982867" duration="4353000" />
-      <workItem from="1594305626620" duration="2488000" />
-      <workItem from="1594393104294" duration="600000" />
-      <workItem from="1594401374515" duration="89000" />
-      <workItem from="1594435252241" duration="3080000" />
-      <workItem from="1594564602035" duration="715000" />
-      <workItem from="1594569025841" duration="1460000" />
-      <workItem from="1594652264443" duration="594000" />
-      <workItem from="1594738636089" duration="2300000" />
-      <workItem from="1594827158191" duration="2763000" />
-      <workItem from="1594911540901" duration="2224000" />
-      <workItem from="1594993994754" duration="2761000" />
-      <workItem from="1595086974329" duration="595000" />
-      <workItem from="1595260149213" duration="698000" />
-      <workItem from="1595344133289" duration="2445000" />
-      <workItem from="1595430300495" duration="1377000" />
-      <workItem from="1595517935217" duration="1200000" />
-      <workItem from="1595773745835" duration="594000" />
-      <workItem from="1595862844683" duration="1536000" />
-      <workItem from="1595948073373" duration="595000" />
-      <workItem from="1596034189173" duration="1195000" />
-      <workItem from="1596217537031" duration="778000" />
-      <workItem from="1596378394179" duration="594000" />
-      <workItem from="1596466667818" duration="1208000" />
-      <workItem from="1596554311751" duration="1192000" />
-      <workItem from="1596639013976" duration="595000" />
-      <workItem from="1596726023112" duration="600000" />
-      <workItem from="1597077781379" duration="628000" />
-      <workItem from="1597159956716" duration="594000" />
-      <workItem from="1597237508632" duration="596000" />
-      <workItem from="1597329812087" duration="596000" />
-      <workItem from="1597675717303" duration="595000" />
-      <workItem from="1597938891919" duration="5060000" />
+      <updated>1611069487597</updated>
+      <workItem from="1611069488714" duration="2673000" />
+      <workItem from="1611072530675" duration="865000" />
+      <workItem from="1611073426895" duration="528000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="736770000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29233226" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21566524" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40236053" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32939914" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32960597" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.299787" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21566524" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32939914" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32960597" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>i</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/Coin_Change_2_518/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/PartitionEqualSubsetSum/PartitionEqualSubsetSum_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/Coin_Change_2_518/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordBreak/WordBreak_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#27#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CoinChange_322/CoinChange_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/CoinChange_322/CoinChange_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/CombinationSumIV_377/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/OnesAndZeroes_474/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/CombinationSumIV_377/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" selection-start-column="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/BestTimeToBuyandSellStockWithCooldown_309/BestTimeToBuyandSellStockWithCooldown_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" selection-start-line="43" selection-end-line="44" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockWithTransactionFee_714/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_123/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockWithTransactionFee_714/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/OnesAndZeroes_474/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/CountPrimes_204/math/CountPrimes_204/Solution_java.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/fi" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_123/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/two_Keys_Keyboard_650/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/CountPrimes_204/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/CountPrimes_204/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/Base_7_504/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/Convert_A_Number_To_Hexadecimal_405/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/Base_7_504/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/Convert_A_Number_To_Hexadecimal_405/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/FirstMissingPositive_41/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/ExcelSheetColumnTitle_168/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/FirstMissingPositive_41/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/ExcelSheetColumnTitle_168/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/FactorialTrailingZeroes_172/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/AddBinary_67/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/FactorialTrailingZeroes_172/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/two_Keys_Keyboard_650/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hot_100/WordBreak/WordBreak_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/AddBinary_67/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/MinimumMovesToEqualArrayElementsII_462/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/ValidPerfectSquare_367/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/list/AddTwoNumbersII_445/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/list/SplitLinkedListInParts_725/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/randomTest/f1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/list/SplitLinkedListInParts_725/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/randomTest/LongestRepeatingCharacterReplacement_424/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/list/AddTwoNumbersII_445/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/ValidPerfectSquare_367/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/MinimumMovesToEqualArrayElementsII_462/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/PacificAtlanticWaterFlow_417/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/FriendCircles_547/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/randomTest/LongestRepeatingCharacterReplacement_424/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/describtion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/BestTimeToBuyAndSellStockIII_188/Solution_java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
