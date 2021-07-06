@@ -41,6 +41,6 @@ public class Solution_java {
 
     public static void main(String[] args) {
         Solution_java aaa = new Solution_java();
-        aaa.combinationSum2(new int[]{10,1,2,7,6,1,5}, 8);
+        System.out.println(aaa.combinationSum2(new int[]{10,1,2,7,6,1,5}, 8));
     }
 }

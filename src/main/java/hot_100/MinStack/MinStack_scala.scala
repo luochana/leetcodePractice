@@ -4,7 +4,7 @@ package hot_100.MinStack
 
 import scala.collection.mutable.Stack
 
-class MinStack_java{
+class MinStack_scala{
 
 
   // 数据栈
