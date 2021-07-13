@@ -91,13 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -182,8 +184,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution_java" />
-      <item itemvalue="Maven.leetcode []" />
       <item itemvalue="Application.Solution_java (1)" />
+      <item itemvalue="Maven.leetcode []" />
     </list>
     <recent_temporary>
       <list>
@@ -204,7 +206,8 @@
       <workItem from="1611072530675" duration="865000" />
       <workItem from="1611073426895" duration="2271000" />
       <workItem from="1611329940685" duration="276000" />
-      <workItem from="1625567474491" duration="3681000" />
+      <workItem from="1625567474491" duration="4382000" />
+      <workItem from="1626104089296" duration="2848000" />
     </task>
     <servers />
   </component>
