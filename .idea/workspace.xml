@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a65aa01-4e66-4385-b3c2-5f3301eeafbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/greed/AssignCookies_455/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/greed/AssignCookies_455/describtion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/greed/AssignCookies_455/describtion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/greed/AssignCookies_455/describtion" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +195,7 @@
       <workItem from="1611329940685" duration="276000" />
       <workItem from="1625567474491" duration="4382000" />
       <workItem from="1626104089296" duration="3524000" />
+      <workItem from="1626273033629" duration="780000" />
     </task>
     <servers />
   </component>
