@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a65aa01-4e66-4385-b3c2-5f3301eeafbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/RomanToInteger_13/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/RomanToInteger_13/describtion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/CountAndSay_38/Solution_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/CountAndSay_38/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.Solution_java (2)">
+  <component name="RunManager" selected="Application.Solution_java (3)">
     <configuration name="Solution_java (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twoPointers.ValidPalindromeII_680.Solution_java" />
       <module name="leetcodePractice" />
@@ -94,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_java (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.CountAndSay_38.Solution_java" />
+      <module name="leetcodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.CountAndSay_38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.CombinationSumII_40.Solution_java" />
       <module name="leetcodePractice" />
@@ -107,13 +119,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -199,11 +213,13 @@
     <list>
       <item itemvalue="Application.Solution_java" />
       <item itemvalue="Application.Solution_java (1)" />
-      <item itemvalue="Maven.leetcode []" />
       <item itemvalue="Application.Solution_java (2)" />
+      <item itemvalue="Maven.leetcode []" />
+      <item itemvalue="Application.Solution_java (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_java (3)" />
         <item itemvalue="Application.Solution_java (2)" />
         <item itemvalue="Application.Solution_java (1)" />
         <item itemvalue="Application.Solution_java" />
@@ -224,7 +240,8 @@
       <workItem from="1611329940685" duration="276000" />
       <workItem from="1625567474491" duration="4382000" />
       <workItem from="1626104089296" duration="3524000" />
-      <workItem from="1626273033629" duration="2543000" />
+      <workItem from="1626273033629" duration="3768000" />
+      <workItem from="1626715041146" duration="1130000" />
     </task>
     <servers />
   </component>
@@ -247,9 +264,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/other/RomanToInteger_13/Solution_java.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/main/java/other/CountAndSay_38/Solution_java.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
