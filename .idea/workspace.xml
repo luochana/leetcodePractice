@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a65aa01-4e66-4385-b3c2-5f3301eeafbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/CountAndSay_38/Solution_java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/CountAndSay_38/describtion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/RotateArray_189/Solution_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/RotateArray_189/describtion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +241,7 @@
       <workItem from="1625567474491" duration="4382000" />
       <workItem from="1626104089296" duration="3524000" />
       <workItem from="1626273033629" duration="3768000" />
-      <workItem from="1626715041146" duration="1130000" />
+      <workItem from="1626715041146" duration="1941000" />
     </task>
     <servers />
   </component>
