@@ -47,6 +47,7 @@ public class Main {
         Arrays.sort(arr2, (a, b) ->b -a);
         for(int i:arr){
             System.out.println(i);
+            
         }
         
     }
